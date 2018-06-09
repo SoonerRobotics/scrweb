@@ -14,6 +14,14 @@
 	<!-- Site Title -->
 	<title>SCR</title>
 
+	<link rel="apple-touch-icon" sizes="180x180" href="img/favicon_pkg/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon_pkg/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="img/favicon_pkg/favicon-16x16.png">
+	<link rel="manifest" href="img/favicon_pkg/site.webmanifest">
+	<link rel="mask-icon" href="img/favicon_pkg/safari-pinned-tab.svg" color="#b3003c">
+	<meta name="msapplication-TileColor" content="#6a6a6a">
+	<meta name="theme-color" content="#ffffff">
+
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 		<!--
 		CSS

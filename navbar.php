@@ -2,14 +2,10 @@
 	<div class="header-top">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-6 col-sm-6 col-8 header-top-left no-padding">
-					<ul>
-						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#"><i class="fa fa-youtube"></i></a></li>
-						<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-					</ul>			
-				</div>
+				<?php 
+					require_once("social.php"); 
+					header_social();
+				?>
 				<div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
 					<a href="mailto:scr@ou.edu"><span class="lnr lnr-envelope"></span> <span class="text">scr@ou.edu</span></a>			
 				</div>
