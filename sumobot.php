@@ -3,7 +3,6 @@
 	<?php include "scr-header.php"; ?>
 		<body>	
 		  <?php include "navbar.php";?>
-			  
 			<!-- start banner Area -->
 			<section class="banner-area relative about-banner" id="home">	
 				<div class="overlay overlay-bg"></div>

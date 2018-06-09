@@ -6,13 +6,12 @@
 					<ul>
 						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-						<li><a href="#"><i class="fa fa-behance"></i></a></li>
+						<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+						<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 					</ul>			
 				</div>
 				<div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
-					<a href="tel:+953 012 3654 896"><span class="lnr lnr-phone-handset"></span> <span class="text">+953 012 3654 896</span></a>
-					<a href="mailto:support@colorlib.com"><span class="lnr lnr-envelope"></span> <span class="text">support@colorlib.com</span></a>			
+					<a href="mailto:scr@ou.edu"><span class="lnr lnr-envelope"></span> <span class="text">scr@ou.edu</span></a>			
 				</div>
 			</div>			  					
 		</div>
@@ -20,34 +19,21 @@
 	<div class="container main-menu">
 		<div class="row align-items-center justify-content-between d-flex">
 		<div id="logo">
-			<a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
+			<a href="index"><img src="img/weblogo.png" alt="" title="" /></a>
 		</div>
 			<nav id="nav-menu-container">
 				<ul class="nav-menu">
 				<li><a href="index">Home</a></li>
 				<li><a href="about">About</a></li>
-				<li><a href="courses">Courses</a></li>
-				<li><a href="events">Events</a></li>
-				<li><a href="gallery">Gallery</a></li>
-				<li class="menu-has-children"><a href="">Blog</a>
+				<li class="menu-has-children"><a href="teams">Teams</a>
 					<ul>
-					<li><a href="blog-homel">Blog Home</a></li>
-					<li><a href="blog-single">Blog Single</a></li>
+						<li><a href="ieee">IEEE</a></li>
+						<li><a href="mercury">Mercury</a></li>
+						<li><a href="sumobot">Sumobot</a></li>
 					</ul>
-				</li>	
-				<li class="menu-has-children"><a href="">Pages</a>
-					<ul>
-						<li><a href="course-details">Course Details</a></li>		
-						<li><a href="event-details">Event Details</a></li>		
-						<li><a href="elements">Elements</a></li>
-						<li class="menu-has-children"><a href="">Level 2 </a>
-							<ul>
-							<li><a href="#">Item One</a></li>
-							<li><a href="#">Item Two</a></li>
-							</ul>
-						</li>					                		
-					</ul>
-				</li>					          					          		          
+				</li>
+				<li><a href="results">Results</a></li>
+				<li><a href="sponsors">Sponsors</a></li>			          					          		          
 				<li><a href="contact">Contact</a></li>
 				</ul>
 			</nav><!-- #nav-menu-container -->	    		

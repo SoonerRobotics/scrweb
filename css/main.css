@@ -2412,7 +2412,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-    background: url(../img/scr-featured-logo.png) right;
+    /*background: url(../img/scr-featured-logo.png) right;*/
     background-size: cover
 }
 

@@ -284,7 +284,7 @@ $(document).ready(function() {
         function init() {
             var mapOptions = {
                 zoom: 11,
-                center: new google.maps.LatLng(40.6700, -73.9400), // New York
+                center: new google.maps.LatLng(35.210395, -97.441761), //Rawl EPF
                 styles: [{
                     "featureType": "water",
                     "elementType": "geometry",
@@ -405,9 +405,9 @@ $(document).ready(function() {
             var mapElement = document.getElementById('map');
             var map = new google.maps.Map(mapElement, mapOptions);
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(40.6700, -73.9400),
+                position: new google.maps.LatLng(35.210395, -97.441761),
                 map: map,
-                title: 'Snazzy!'
+                title: 'ExxonMobil Lawrence G. Rawl Engineering Practice Facility'
             });
         }
     }
