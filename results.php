@@ -11,160 +11,98 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Events				
+								Competition Results				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="events.html"> Events</a></p>
+							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="results"> Results</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
 			<!-- End banner Area -->	
-				
-			<!-- Start events-list Area -->
-			<section class="events-list-area section-gap event-page-lists">
-				<div class="container">
-					<div class="row align-items-center">
-						<div class="col-lg-6 pb-30">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 pb-30">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e2.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 pb-30">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 pb-30">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e2.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 pb-30">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6" pb-30>
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e2.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 pb-30">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e1.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="event-details.html"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="single-carusel row align-items-center">
-								<div class="col-12 col-md-6 thumb">
-									<img class="img-fluid" src="img/e2.jpg" alt="">
-								</div>
-								<div class="detials col-12 col-md-6">
-									<p>25th February, 2018</p>
-									<a href="#"><h4>The Universe Through
-									A Child S Eyes</h4></a>
-									<p>
-										For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-									</p>
-								</div>
-							</div>
-						</div>																		
-						<a href="#" class="text-uppercase primary-btn mx-auto mt-40">Load more courses</a>		
-					</div>
-				</div>	
-			</section>
-			<!-- End events-list Area -->
-				
+			
+			<br>
 
-			<!-- Start cta-two Area -->
-			<section class="cta-two-area">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-8 cta-left">
-							<h1>Not Yet Satisfied with our Trend?</h1>
-						</div>
-						<div class="col-lg-4 cta-right">
-							<a class="primary-btn wh" href="#">view our blog</a>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End cta-two Area -->						    			
+			<div class="row"  style="margin: 0 auto; display: flex;  justify-content: center;">
+                <div class="col-md-6 accordion-left">
+                    <!-- accordion 2 start-->
+                    <dl class="accordion">
+						<dt>
+							<a href="">2018</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>Sumobot: 5th place</li>
+								<li>IEEE: T-15th Place (out of 60 teams)</li>
+								<li>Mercury: 9th</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2017</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>Sumobot: 4th place</li>
+								<li>IEEE: 9th Place (out of 30 teams)</li>
+								<li>Mercury: 10th Place (out of 16 teams)</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2016</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>IEEE: 6th Place</li>
+								<li>Mercury: 7th Place (out of 26 teams), Judges Choice Award</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2015</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>ASEE: 4th Place out of 15 teams</li>
+								<li>KIPR Aerial: 5th Place, Judges Choice for Best Technology</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2014</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>KIPR Open: 1st Place Double Elimination</li>
+								<li>KIPR Aerial: Judges Choice</li>
+								<li>Mercury: T-8th (out of 13 teams)</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2013</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>Mercury: 1st Place Overall</li>
+								<li>KIPR Open: 2nd Place Overall</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2012</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>IEEE Robot: Top 10 (out of 40 teams)</li>
+								<li>KIPR Open: 2nd Place Double Elimination, Judges Choice</li>
+							</ul>
+						</dd>
+						<dt>
+							<a href="">2011</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>KIPR Aerial 2011: 1st Place Overall</li>
+							</ul>
+						</dd>
+					</dl>
+				</div>
+			</div>
 
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>

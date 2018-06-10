@@ -20,11 +20,21 @@
 			</section>
 			<!-- End banner Area -->				  
 
+
 			<!-- Start contact-page Area -->
 			<section class="contact-page-area section-gap">
-				<div class="container">
+				<div class="container">	
+					<div class="row" style="margin:0 auto; display:flex; justify-content:center;">
+						<div style="padding-bottom: 40px;width:100%;">
+								<h2 style="margin:0 auto; display:flex; justify-content:center;">
+									To stay updated on SCR, join our&nbsp;<a href="https://us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=461ddc48af"> mailing list!</a>
+								</h2>
+							</div>
+						</div>	
 					<div class="row">
-						<div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
+						<h3 style="width:100%;padding-left:15px;padding-bottom:40px;">
+							Email us
+						</h3>
 						<div class="col-lg-4 d-flex flex-column address-wrap">
 							<div class="single-contact-address d-flex flex-row">
 								<div class="icon">
@@ -67,6 +77,10 @@
 								</div>
 							</form>	
 						</div>
+						<h3 style="width:100%;padding-left:15px;padding-bottom:40px; padding-top:20px;">
+							Where we are
+						</h3>
+						<div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
 					</div>
 				</div>	
 			</section>
