@@ -2416,8 +2416,33 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-size: cover
 }
 
+.banner-area-ieee {
+    background: url(../img/ieee-banner.jpg) right;
+    background-size: cover
+}
+
+.banner-area-mercury {
+    background: url(../img/mercury-banner.jpg) right;
+    background-size: cover
+}
+
+.banner-area-sumo {
+    background: url(../img/sumobot-banner.png) right;
+    background-size: cover
+}
+
+.banner-area-results {
+    background: url(../img/merc-award-2013.jpg) right;
+    background-size: cover
+}
+
+.banner-area-contact {
+    background: url(../img/canva-mailbox.jpg) right;
+    background-size: cover
+}
+
 .banner-area .overlay-bg {
-    background-color: rgba(4, 9, 30, 0.4)
+    background-color: rgba(4, 9, 30, 0.6)
 }
 
 @media (max-width: 767px) {
@@ -2512,23 +2537,82 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-feature:hover {
-    cursor: pointer
+    cursor: default;
 }
 
 .single-feature:hover .title {
-    background: #b3003c
+    background: #b3003c;
 }
 
 .single-feature:hover .desc-wrap a {
-    color: #b3003c
+    color: #b3003c;
 }
 
 @media (max-width: 991px) {
     .single-feature {
-        margin-bottom: 30px
+        margin-bottom: 30px;
     }
     .single-feature .title {
         background: #b3003c
+    }
+}
+
+.team-feature-area {
+    margin-top: -62px
+}
+
+.team-feature {
+    text-align: center
+}
+
+.team-feature .title {
+    background: rgb(110, 110, 110);
+    padding: 20px 0px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s
+}
+
+.team-feature .title h4 {
+    color: #fff;
+}
+
+.team-feature .desc-wrap {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 10px 30px 0px rgba(153, 153, 153, 0.1)
+}
+
+.team-feature .desc-wrap a {
+    font-size: 14px;
+    font-weight: 600;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    color: #222
+}
+
+.team-feature:hover {
+    cursor: default;
+}
+
+.team-feature:hover .title {
+    background: #b3003c;
+    color:#000;
+}
+
+.team-feature:hover .desc-wrap a {
+    color: #b3003c;
+}
+
+@media (max-width: 991px) {
+    .team-feature {
+        margin-bottom: 30px
+    }
+    .team-feature .title {
+        background: #b3003c;
     }
 }
 
@@ -3004,7 +3088,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner {
-    background: url(../img/top-banner.jpg) right no-repeat;
+    /*background: url(../img/top-banner.jpg) right no-repeat;*/
     background-size: cover
 }
 
@@ -3704,20 +3788,20 @@ dl.toggle.time-line:before {
     background: #00c7f8
 }
 
-.event-details-area .social-nav .focials li a .fa-dribbble {
+.event-details-area .social-nav .focials li a .fa-youtube {
     width: 30px;
     display: block;
     text-align: center;
     padding: 8px 0px;
-    background: #f982aa
+    background: #ff3e3e
 }
 
-.event-details-area .social-nav .focials li a .fa-behance {
+.event-details-area .social-nav .focials li a .fa-instagram {
     width: 30px;
     display: block;
     text-align: center;
     padding: 8px 0px;
-    background: #0b8eff
+    background: #ff4fd9
 }
 
 .event-details-area .social-nav .navs {
@@ -3794,7 +3878,7 @@ dl.toggle.time-line:before {
 }
 
 .gallery-area .single-imgs .overlay-bg {
-    background: rgba(247, 99, 27, 0.85);
+    background: rgba(206, 206, 206, 0.45);
     opacity: 0;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;

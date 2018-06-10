@@ -14,7 +14,7 @@
 							Whether it's building, wiring, or programming robots that interests you, 
 							our teams need your skills in order to succeed.
 						</p>
-						<a href="teams">Our Teams</a>									
+						<a href="teams.php">Our Teams</a>									
 					</div>
 				</div>
             </div>
@@ -29,7 +29,7 @@
 							Every one of our teams has an opportunity for students to improve their technical 
 							engineering skills, as well as their ability to manage projects and work in diverse teams.
 						</p>
-						<a href="contact">Contact Us</a>									
+						<a href="contact.php">Contact Us</a>									
 					</div>
 				</div>
             </div>
@@ -43,7 +43,7 @@
                             Every member of SCR contributes to our organization's achievents in a valuable way. 
                             Students of all backgrounds join together to make our teams successful and most importantly, fun.
 						</p>
-						<a href="results">Past Results</a>									
+						<a href="results.php">Past Results</a>									
 					</div>
 				</div>
 			</div>												

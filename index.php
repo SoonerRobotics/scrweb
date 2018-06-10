@@ -18,7 +18,7 @@
 							<p class="pt-10 pb-10">
 								 
 							</p> -->
-							<a href="#" class="primary-btn text-uppercase">Join Us</a>
+							<a href="https://us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=461ddc48af" class="primary-btn text-uppercase">Join Us</a>
 						</div>										
 					</div>
 				</div>					

@@ -13,83 +13,55 @@
 							<h1 class="text-white">
 								Sponsors				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="sponsors"> Sponsors</a></p>
+							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="sponsors.php"> Sponsors</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
 			<!-- End banner Area -->	
-				
+			
 			<!-- Start gallery Area -->
 			<section class="gallery-area section-gap">
 				<div class="container">
-					<div class="row">
-						<div class="col-lg-7">
-							<a href="img/gallery/g1.jpg" class="img-gal">
+				<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Our Sponsors</h1>
+								<p>
+									These sponsors make it possible for our teams to build robots and go to competition.
+									If you are interested in sponsoring our robotics teams, send us an email at&nbsp; <a href="mailto:scr@ou.edu">scr@ou.edu</a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-center">
+						<div class="col-lg-6">
+							<a href="http://www.ou.edu/coe" class="img-gal">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
-										<img class="img-fluid" src="img/gallery/g1.jpg" alt="">		
+										<img class="img-fluid" src="img/sponsors/gcoe.png" alt="">		
 									</div>
 								</div>
 							</a>
 						</div>
-						<div class="col-lg-5">
-							<a href="img/gallery/g2.jpg" class="img-gal">
+						<br>
+						<div class="col-md-6">
+							<a href="http://www.ou.edu/sga" class="img-gal">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
-										<img class="img-fluid" src="img/gallery/g2.jpg" alt="">				
+										<img class="img-fluid" src="img/sponsors/sga.png" alt="">		
 									</div>
 								</div>
 							</a>
 						</div>
-						<div class="col-lg-4">
-							<a href="img/gallery/g3.jpg" class="img-gal">
+						<div class="col-md-4">
+							<a href="https://www.twmetals.com/" class="img-gal">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
-										<img class="img-fluid" src="img/gallery/g3.jpg" alt="">				
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-lg-4">
-							<a href="img/gallery/g4.jpg" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">					
-										<img class="img-fluid" src="img/gallery/g4.jpg" alt="">				
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-lg-4">
-							<a href="img/gallery/g5.jpg"  class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">					
-										<img class="img-fluid" src="img/gallery/g5.jpg" alt="">				
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-lg-5">
-							<a href="img/gallery/g6.jpg" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/gallery/g6.jpg" alt="">				
-									</div>
-								</div>
-							 </a>
-						</div>
-						<div class="col-lg-7">
-							<a href="img/gallery/g7.jpg" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div  class="relative">					
-										<img class="img-fluid" src="img/gallery/g7.jpg" alt="">				
+										<img class="img-fluid" src="img/sponsors/twmetals.png" alt="">		
 									</div>
 								</div>
 							</a>
@@ -97,23 +69,7 @@
 					</div>
 				</div>	
 			</section>
-			<!-- End gallery Area -->
-													
-
-			<!-- Start cta-two Area -->
-			<section class="cta-two-area">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-8 cta-left">
-							<h1>Not Yet Satisfied with our Trend?</h1>
-						</div>
-						<div class="col-lg-4 cta-right">
-							<a class="primary-btn wh" href="#">view our blog</a>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End cta-two Area -->						    			
+			<!-- End gallery Area -->						    			
 
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>

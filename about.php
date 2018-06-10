@@ -13,7 +13,7 @@
 							<h1 class="text-white">
 								About Us				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="about"> About</a></p>
+							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="about.php"> About</a></p>
 						</div>	
 					</div>
 				</div>
@@ -49,8 +49,8 @@
 			</section>
 			<!-- End info Area -->	
 
-			<!-- Start course-mission Area -->
-			<section class="course-mission-area pb-120">
+			<!-- Start mission Area -->
+			<section class="mission-area pb-120">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-70 col-lg-8">
@@ -115,7 +115,7 @@
                             <!-- accordion 2 end-->
 						</div>
 						<div class="col-md-6 no-padding info-area-right">
-							<img class="img-fluid" src="img/scr-featured-logo.png" alt="">
+							<img class="img-fluid" src="img/repf.jpg" alt="">
 						</div>
 						<!--
                         <div class="col-md-6 video-right justify-content-center align-items-center d-flex relative">
@@ -126,7 +126,7 @@
                     </div>
 				</div>	
 			</section>
-			<!-- End course-mission Area -->
+			<!-- End mission Area -->
 			
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
