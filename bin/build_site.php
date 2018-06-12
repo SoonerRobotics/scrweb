@@ -17,7 +17,7 @@ function copy_dependencies()
     {
         if( copy($d, "./".basename($d)) )
         {
-            echo "Dependency: " . $d . " copied successfully!<br>";
+            echo nl2br("Dependency: " . $d . " copied successfully!\r\n");
         }
     }
 }
@@ -33,7 +33,7 @@ function build_html_single_file($file, $filename)
 
     file_put_contents('../html_output/'.$filename.'.html', $code_string);
 
-    echo "****************" . $filename . "******************<br>";
+    echo nl2br("****************" . $filename . "******************\r\n");
 }
 
 
@@ -60,7 +60,7 @@ function build_site()
         build_html_single_file($files[$i], $names[$i]);
     }
 
-    echo "Done!";
+    echo nl2br("Done!\r\n");
 }
 
 build_site();
