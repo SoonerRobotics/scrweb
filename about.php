@@ -5,10 +5,10 @@
 		  <?php include "navbar.php";?>
 			  
 			<!-- start banner Area -->
-			<section class="banner-area relative about-banner" id="home">	
+			<section class="banner-area relative banner-area-about" id="home">	
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
-					<div class="row d-flex align-items-center justify-content-center">
+					<div class="row d-flex fullscreen align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
 								About Us				

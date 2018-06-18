@@ -2416,6 +2416,16 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-size: cover
 }
 
+.banner-area-about {
+    background: url(../img/beaglebone-led.jpg) right;
+    background-size: cover
+}
+
+.banner-area-teams {
+    background: url(../img/IEEE_CAD_Robot.png) right;
+    background-size: cover
+}
+
 .banner-area-ieee {
     background: url(../img/ieee-banner.jpg) right;
     background-size: cover
@@ -2433,6 +2443,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-area-results {
     background: url(../img/merc-award-2013.jpg) right;
+    background-size: cover
+}
+
+.banner-area-sponsors {
+    background: url(../img/piggybank.jpg) right;
     background-size: cover
 }
 
