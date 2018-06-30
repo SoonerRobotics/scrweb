@@ -51,7 +51,7 @@
 						</dt>
 						<dd>
 							<ul>
-								<li>IEEE: 6th Place</li>
+								<li>IEEE: 4th Place</li>
 								<li>Mercury: 7th Place (out of 26 teams), Judges Choice Award</li>
 							</ul>
 						</dd>

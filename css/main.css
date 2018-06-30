@@ -2411,8 +2411,8 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 10px
 }
 
-.banner-area {
-    /*background: url(../img/scr-featured-logo.png) right;*/
+.banner-area-home {
+    background: url(../img/robot-banner.jpg) right;
     background-size: cover
 }
 
@@ -4995,4 +4995,11 @@ dl.toggle.time-line:before {
 
 .footer-bottom .footer-social a:hover {
     background-color: #b3003c
+}
+
+.profile-pic
+{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
 }
