@@ -25,6 +25,7 @@
 					<ul>
 						<li><a href="ieee.php">IEEE</a></li>
 						<li><a href="mercury.php">Mercury</a></li>
+						<li><a href="robomagellan.php">Robomagellan</a></li>
 						<li><a href="sumobot.php">Sumobot</a></li>
 					</ul>
 				</li>

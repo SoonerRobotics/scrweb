@@ -22,7 +22,7 @@
 			<section class="team-feature-area section-gap pb-120">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-4">
+						<div class="col-lg-6">
 							<div class="team-feature">
 								<div class="title">
 									<h4>IEEE</h4>
@@ -36,22 +36,37 @@
 								</div>
 							</div>
 			            </div>
-						<div class="col-lg-4">
+						<div class="col-lg-6">
 							<div class="team-feature">
 								<div class="title">
 									<h4>Mercury</h4>
 								</div>
 								<div class="desc-wrap">
 									<p>
-										The Mercury robotics team designs and creates a robot that is operated remotely from Norman, OK.
+										The Mercury robotics team builds a robot that is operated remotely from Norman, OK.
 										The robot is over 50 miles away from its operator, as the competition takes place in Stillwater, OK every year.
-										Obstacle courses and robotic arms are the two things that characterize this competition, and it is mechanically intensive.
+										If robotic arms and obstacle courses interest you, this team is a good fit.
 									</p>
 									<a href="mercury.php">Learn More</a>									
 								</div>
 							</div>
 			            </div>
-			            <div class="col-lg-4">
+			            <div class="col-lg-6">
+							<div class="team-feature">
+								<div class="title">
+									<h4>Robomagellan</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										Robomagellan is our newest team, and will make its debut in the upcoming 2018-19 season. 
+										Modeled after the 2005 DARPA Grand Challenge, autonomous robots must traverse an outdoor course 
+										and compete to complete the course as fast as possible.
+									</p>
+									<a href="robomagellan.php">Learn More</a>									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6">
 							<div class="team-feature">
 								<div class="title">
 									<h4>Sumobot</h4>
@@ -65,7 +80,7 @@
 									<a href="sumobot.php">Learn More</a>									
 								</div>
 							</div>
-						</div>												
+						</div>											
 					</div>
 				</div>	
 			</section>

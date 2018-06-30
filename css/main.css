@@ -2436,6 +2436,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-size: cover
 }
 
+.banner-area-robomagellan {
+    background: url(../img/usa-map.jpg) right;
+    background-size: cover
+}
+
 .banner-area-sumo {
     background: url(../img/sumobot-banner.png) right;
     background-size: cover
@@ -2573,11 +2578,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team-feature-area {
-    margin-top: -62px
+    margin-top: -62px;
 }
 
 .team-feature {
-    text-align: center
+    text-align: center;
+    margin-bottom:15px;
 }
 
 .team-feature .title {
