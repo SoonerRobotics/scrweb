@@ -28,6 +28,30 @@
 			<!-- Start feature Area -->
 			<?php include "feature.php"; ?>
 			<!-- End feature Area -->
+
+			<?php
+				require_once("upcoming_events.php");
+				if(get_num_events() > 0)
+				{
+			?>
+				<section class="gallery-area section-half-gap">
+					<div class="container">
+						<div class="row d-flex justify-content-center">
+							<div class="menu-content pb-70 col-lg-8">
+								<div class="title text-center">
+									<h1 class="mb-10">Upcoming Events</h1>
+								</div>
+							</div>
+						</div>
+					
+			<?php
+					printEvents();
+			?>
+					</div>
+				</section>
+			<?php
+				}
+			?>
 						
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>

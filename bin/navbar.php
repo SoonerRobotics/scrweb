@@ -29,6 +29,7 @@
 						<li><a href="sumobot.php">Sumobot</a></li>
 					</ul>
 				</li>
+				<li><a href="events.php">Events</a></li>
 				<li><a href="results.php">Results</a></li>
 				<li><a href="sponsors.php">Sponsors</a></li>			          					          		          
 				<li><a href="contact.php">Contact</a></li>

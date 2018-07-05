@@ -1,27 +1,93 @@
 <?php
 
-$deps = [
+/*
+ * All the PHP files the website uses as utilities 
+ */
+$php_deps = [
         "../feature.php",
         "../social.php",
         "../navbar.php",
         "../scr-header.php",
         "../newsletter.php",
-        "../footer.php"
+        "../footer.php",
+        "../upcoming_events.php"
 ];
 
-function copy_dependencies()
-{
-    global $deps;
+/*
+ * All the resource files (images, CSS, etc) to make the website usable
+ * (i.e. make it look like it was made before 2000) 
+ */
+$res_deps = [
+        "../css",
+        "../fonts",
+        "../js",
+        "../scss",
+        "../img",
+        "../favicon.ico"
+];
 
-    foreach($deps as $d)
+/*
+ * Function that copies directories
+ */
+function recurse_copy($src,$dst) { 
+    $dir = opendir($src); 
+    @mkdir($dst); 
+    while(false !== ( $file = readdir($dir)) ) { 
+        if (( $file != '.' ) && ( $file != '..' )) { 
+            if ( is_dir($src . '/' . $file) ) { 
+                recurse_copy($src . '/' . $file,$dst . '/' . $file); 
+            } 
+            else { 
+                if( copy($src . '/' . $file,$dst . '/' . $file) )
+                {
+                    echo nl2br("Dependency: " . $src . '/' . $file . " copied successfully!\r\n");
+                } 
+            } 
+        } 
+    } 
+    closedir($dir); 
+} 
+
+/*
+ * Function to copy php file dependencies to the bin/folder so they can be
+ * linked to the original php files for HTML generation 
+ */
+function copy_php_dependencies()
+{
+    global $php_deps;
+
+    foreach($php_deps as $d)
     {
-        if( copy($d, "./".basename($d)) )
+        if( copy($d, "./" . basename($d)) )
         {
             echo nl2br("Dependency: " . $d . " copied successfully!\r\n");
         }
     }
 }
 
+/*
+ * Function that copies resources from the site to the build folder
+ * mainly for previewing purposes 
+ */
+function copy_res_dependencies()
+{
+    global $res_deps;
+
+    foreach($res_deps as $d)
+    {
+        if ( is_dir($d) ) { 
+            recurse_copy($d, "../build/" . basename($d)); 
+        }
+        else if( copy($d, "../build/" . basename($d)) )
+        {
+            echo nl2br("Dependency: " . $d . " copied successfully!\r\n");
+        }
+    }
+}
+
+/*
+ * Given a php file, convert it to an HTML static page
+ */
 function build_html_single_file($file, $filename)
 {
     ob_start();
@@ -31,24 +97,27 @@ function build_html_single_file($file, $filename)
     //Replace all the *.php references with *.html
     $code_string = str_replace(".php", ".html", $code_string);
 
-    file_put_contents('../html_output/'.$filename.'.html', $code_string);
+    file_put_contents('../build/'.$filename.'.html', $code_string);
 
     echo nl2br("****************" . $filename . "******************\r\n");
 }
 
-
+/*
+ * Main Function 
+ */
 function build_site()
 {
     //Copy over dependencies first
-    copy_dependencies();
+    copy_php_dependencies();
+    copy_res_dependencies();
 
-    global $deps;
+    global $php_deps;
 
     $files = [];
     $names = [];
     foreach(glob("../*.php") as $f)
     {
-        if(!in_array($f, $deps))
+        if(!in_array($f, $php_deps))
         {
             $files[] = $f;
             $names[] = basename($f, ".php");
@@ -63,6 +132,10 @@ function build_site()
     echo nl2br("Done!\r\n");
 }
 
+/*
+ * This actually gets called first.
+ * Calls the main function to build the site to static pages
+ */
 build_site();
 
 ?>
