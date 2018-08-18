@@ -29,6 +29,9 @@
 			<?php include "feature.php"; ?>
 			<!-- End feature Area -->
 
+			<!-- Message/News area -->
+			<?php include "news.php"; ?>
+
 			<?php
 				require_once("upcoming_events.php");
 				if(get_num_events() > 0)

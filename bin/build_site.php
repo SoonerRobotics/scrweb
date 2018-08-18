@@ -10,7 +10,8 @@ $php_deps = [
         "../scr-header.php",
         "../newsletter.php",
         "../footer.php",
-        "../upcoming_events.php"
+        "../upcoming_events.php",
+        "../news.php"
 ];
 
 /*
