@@ -14,10 +14,10 @@ $events[0]['link']  = "";
 
 //Event 1
 $events[1]['title'] = "SCR First General Meeting";
-$events[1]['start'] = "TBA";
-$events[1]['end']   = "TBA";
+$events[1]['start'] = "Tuesday August 28th @ 7pm";
+$events[1]['end']   = "";
 $events[1]['city']  = "Norman, OK";
-$events[1]['venue'] = "TBA";
+$events[1]['venue'] = "Rawl Engineering Practice Facility";
 $events[1]['link']  = "";
 
 ////Event 2
