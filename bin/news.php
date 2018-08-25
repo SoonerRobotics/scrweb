@@ -1,6 +1,6 @@
 <?php
-$title   = "Visit SCR at Fall Fest!";
-$message = "Come visit our booth at fall fest to learn more about SCR! Fall Fest will be from 11am to 3pm on Friday August 24th, and there will be free food and activities. Make sure to arrive early so you can meet some members of the SCR student leadership team, talk about robotics, and get in line for the food. Also, <a href=\"https://orgsync.com/118484/chapter\">join our Orgsync page!</a>";
+$title   = "First General Meeting";
+$message = "Our first general meeting is Tuesday August 28th from 5pm to 7pm. If you are interested in robotics, you should come to this meeting as we will be joining with Robotics Club and Sooner Rover team to tell you all about robotics at OU. Follow us on social media to stay updated on SCR throughout the year as teams are about to start building their robots for competition. Also, <a href=\"https://orgsync.com/118484/chapter\">join our Orgsync page!</a>";
 
 if(strlen($message) > 0 && strlen($title) > 0)
 {
