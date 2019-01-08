@@ -5,12 +5,12 @@ function getEvents()
 $events = [];
 
 //Event 0
-$events[0]['title'] = "SCR First General Meeting";
-$events[0]['start'] = "Tuesday August 28th @ 5pm";
-$events[0]['end']   = "Tuesday August 28th @ 7pm";
-$events[0]['city']  = "Norman, OK";
-$events[0]['venue'] = "Felgar 300";
-$events[0]['link']  = "";
+//$events[0]['title'] = "SCR First General Meeting";
+//$events[0]['start'] = "Tuesday August 28th @ 5pm";
+//$events[0]['end']   = "Tuesday August 28th @ 7pm";
+//$events[0]['city']  = "Norman, OK";
+//$events[0]['venue'] = "Felgar 300";
+//$events[0]['link']  = "";
 
 
 //Event 1
