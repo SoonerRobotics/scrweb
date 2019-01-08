@@ -5022,3 +5022,24 @@ dl.toggle.time-line:before {
     height: 100px;
     margin-right: 10px;
 }
+
+.social-feed-details 
+{
+    height: 500px;
+    overflow: scroll;
+}
+
+.social-feed-area .social-feed-right .social-feed-details {
+    background: #f9f9ff;
+    margin-bottom: 30px;
+}
+
+.social-feed-area .social-feed-right .social-feed-details ul li {
+    font-size: 14px;
+    border-bottom: 1px solid #eee;
+    padding: 5px 0px
+}
+
+.social-feed-area .social-feed-right .social-feed-details ul li:last-child {
+    border-bottom: none
+}
