@@ -8,7 +8,7 @@
 			<section class="banner-area relative banner-area-sponsors" id="home">	
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
-					<div class="row d-flex fullscreen align-items-center justify-content-center">
+					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
 								Sponsors				
@@ -18,58 +18,7 @@
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->	
-			
-			<!-- Start gallery Area -->
-			<section class="gallery-area section-gap">
-				<div class="container">
-				<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Our Sponsors</h1>
-								<p>
-									These sponsors make it possible for our teams to build robots and go to competition.
-									If you are interested in sponsoring our robotics teams, send us an email at&nbsp; <a href="mailto:scr@ou.edu">scr@ou.edu</a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="row justify-content-center">
-						<div class="col-lg-6">
-							<a href="http://www.ou.edu/coe" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/gcoe.png" alt="">		
-									</div>
-								</div>
-							</a>
-						</div>
-						<br>
-						<div class="col-md-6">
-							<a href="http://www.ou.edu/sga" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/sga.png" alt="">		
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-md-4">
-							<a href="https://www.twmetals.com/" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/twmetals.png" alt="">		
-									</div>
-								</div>
-							</a>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End gallery Area -->						    			
+			<!-- End banner Area -->						    			
 
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>

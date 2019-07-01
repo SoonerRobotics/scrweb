@@ -1,6 +1,6 @@
 	<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
-	<head>
+		<head>
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon-->
@@ -49,7 +49,17 @@
 	</script>
 
 </head>		<body>	
-		  <header id="header" id="home">
+            <!-- Include JavaScript SDK for Facebook feed integration -->
+            <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=814259118915161&autoLogAppEvents=1';
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <header id="header" id="home">
 	<div class="header-top">
 		<div class="container">
 			<div class="row">
@@ -90,107 +100,66 @@
 			</nav><!-- #nav-menu-container -->	    		
 		</div>
 	</div>
-</header><!-- #header -->			  
-			<!-- start banner Area -->
-			<section class="banner-area banner-area-results relative" id="home">	
+</header><!-- #header -->            
+            <!-- start banner Area -->
+			<section class="banner-area relative banner-area-media" id="home">	
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
-							<h1 class="text-white">
-								Competition Results				
-							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="results.html"> Results</a></p>
-						</div>	
+							<h1 class="text-uppercase text-white">
+								Social Media
+							</h1>
+						</div>										
 					</div>
-				</div>
+				</div>					
 			</section>
-			<!-- End banner Area -->	
-			
-			<br>
+			<!-- End banner Area -->
 
-			<div class="row"  style="margin: 0 auto; display: flex;  justify-content: center;">
-                <div class="col-md-6 accordion-left">
-                    <!-- accordion 2 start-->
-                    <dl class="accordion">
-						<dt>
-							<a href="">2018</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>Sumobot: 5th place</li>
-								<li>IEEE: T-15th Place (out of 60 teams)</li>
-								<li>Mercury: 9th</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2017</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>Sumobot: 4th place</li>
-								<li>IEEE: 9th Place (out of 30 teams)</li>
-								<li>Mercury: 10th Place (out of 16 teams)</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2016</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>IEEE: 4th Place</li>
-								<li>Mercury: 7th Place (out of 26 teams), Judges Choice Award</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2015</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>ASEE: 4th Place out of 15 teams</li>
-								<li>KIPR Aerial: 5th Place, Judges Choice for Best Technology</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2014</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>KIPR Open: 1st Place Double Elimination</li>
-								<li>KIPR Aerial: Judges Choice</li>
-								<li>Mercury: T-8th (out of 13 teams)</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2013</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>Mercury: 1st Place Overall</li>
-								<li>KIPR Open: 2nd Place Overall</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2012</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>IEEE Robot: Top 10 (out of 40 teams)</li>
-								<li>KIPR Open: 2nd Place Double Elimination, Judges Choice</li>
-							</ul>
-						</dd>
-						<dt>
-							<a href="">2011</a>
-						</dt>
-						<dd>
-							<ul>
-								<li>KIPR Aerial 2011: 1st Place Overall</li>
-							</ul>
-						</dd>
-					</dl>
-				</div>
-			</div>
 
+            <!-- Start social feeds -->
+            <section class="gallery-area section-qtr-gap">
+					<div class="container">
+						<br />
+
+                        
+                        <section class="social-feed-area">
+    	                    <div class="container">
+                                <div class="row d-flex justify-content-center">
+                                    <!-- Facebook -->
+                                    <div class="col-lg-4 social-feed-right">
+    		    	                    <!--<div class="social-feed-details">-->
+                                        <div class="fb-page" data-href="https://www.facebook.com/OURobots/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                            <blockquote cite="https://www.facebook.com/OURobots/" class="fb-xfbml-parse-ignore">
+                                                <a href="https://www.facebook.com/OURobots/">Sooner Competitive Robotics</a>
+                                            </blockquote>
+                                        </div>
+                                        <!--</div>-->
+                                    </div>
+                                    <!-- Instagram -->
+                                    <div class="col-lg-4 social-feed-right">
+    		    	                    <div class="social-feed-details">
+                                            <div id="pixlee_container"></div>
+                                            <script type="text/javascript">
+                                                window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'ony2iod3Z1YFa9hS0b8A'});Pixlee.addSimpleWidget({widgetId:'13765'});};
+                                            </script>
+                                            <script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
+                                        </div>
+                                    </div>
+                                    <!-- Twitter -->
+                                    <div class="col-lg-4 social-feed-right">
+    		    	                    <div class="social-feed-details">
+                                            <a class="twitter-timeline" href="https://twitter.com/OU_SCR?ref_src=twsrc%5Etfw">Tweets by OU_SCR</a> 
+                                            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>    
+                    </div>
+				</section>
+            <!-- End social feeds -->
+						
 			<!-- start footer Area -->		
 			<footer class="footer-area section-gap">
 	<div class="container">
