@@ -5,15 +5,15 @@
 		  <?php include "navbar.php";?>
 			  
 			<!-- start banner Area -->
-			<section class="banner-area relative banner-area-about" id="home">	
+			<section class="banner-area relative banner-area-contact" id="home">	
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								About Us				
+								Contact Us				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="about.php"> About</a></p>
+							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.php"> Contact</a></p>
 						</div>	
 					</div>
 				</div>
@@ -22,31 +22,6 @@
 			
 			<br/>
 
-			<!-- Start info Area -->
-			<div class="container-fluid">
-				<div class="row align-items-center">
-					<div class="col-lg-6 no-padding info-area-left">
-						<img class="img-fluid" src="img/scr-featured-logo.png" alt="">
-					</div>
-					<div class="col-lg-6 info-area-right">
-						<h1>Who we are</h1>
-						<p>
-							Founded in 2013, Sooner Competitive Robotics is a hub organization for every 
-							robotics competition team at the University of Oklahoma. 
-							We provide technical, financial, and organizational resources so that our teams 
-							can focus on building great robots and winning competitions.
-						</p>
-						<br>
-						<h1>Mission</h1>
-						<p>
-							The mission of Sooner Competitive Robotics is to represent the University of Oklahoma 
-							College of Engineering by winning robotics competitions.
-						</p>
-					</div>
-				</div>
-			</div>	
-			<!-- End info Area -->	
-			
 			<!-- Start contact-page Area -->
 			<section class="section-gap">
 				<div class="container">	
@@ -113,7 +88,7 @@
 										<img class ="profile-pic" src="img/officers/secretary.png"></img>
 									</div>
 									<div class="contact-details">
-										<h5>Secretary</h5>
+										<h5>Secretary | <a href="/teams.php">Mercury</a> Captain</h5>
 										<p>
 											Sarah Brown
 											<br>
@@ -128,7 +103,7 @@
 										<img class ="profile-pic" src="img/officers/housekeeper.png"></img>
 									</div>
 									<div class="contact-details">
-										<h5>Housekeeping Captain</h5>
+										<h5>Housekeeping Captain | <a href="/teams.php">IGVC</a> Captain</h5>
 										<p>
 											Noah Zemlin
 											<br>

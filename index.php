@@ -29,6 +29,7 @@
 								 
 							</p> -->
 							<a href="https://ou.us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=db1cf84278" class="primary-btn text-uppercase">Join Us</a>
+							<a href="https://giving.oufoundation.org/OnlineGivingWeb/Giving/OnlineGiving/SCR" class="primary-btn text-uppercase">Donate</a>
 						</div>										
 					</div>
 				</div>					
@@ -40,7 +41,7 @@
 			<!-- End feature Area -->
 
 			<!-- Start gallery Area -->
-			<section class="gallery-area section-gap">
+			<section class="gallery-area">
 				<div class="container">
 				<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-70 col-lg-8">
@@ -50,6 +51,7 @@
 									These sponsors make it possible for our teams to build robots and go to competition.
 									If you are interested in sponsoring our robotics teams, send us an email at&nbsp; <a href="mailto:scr@ou.edu">scr@ou.edu</a>
 								</p>
+								<b>You can also donate to the team by clicking the Donate button at the top!</b>
 							</div>
 						</div>
 					</div>

@@ -2020,7 +2020,7 @@ h1, h2, h3, h4, h5, h6 {
 .main-menu {
     padding-bottom: 20px;
     padding-top: 20px;
-    border-bottom: 1px solid #39353e
+    /* border-bottom: 1px solid #39353e */
 }
 
 #header {
@@ -2351,7 +2351,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn:hover {
-    color: #fff
+    color: #b3003c;
+    background: #fff;
 }
 
 .primary-btn:hover span {
@@ -2470,12 +2471,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-contact {
-    background: url(../img/canva-mailbox.jpg) right;
+    background: url(../img/repf.jpg) right;
     background-size: cover
 }
 
 .banner-area-media {
-    background: url(../img/officers.jpg) right;
+    background: url(../img/media.jpg) right;
     background-size: cover
 }
 
@@ -2630,7 +2631,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
-    color: #222
+    color: #F22;
+}
+
+.team-feature .desc-wrap p {
+    padding-top: 10px;
 }
 
 .team-feature:hover {
@@ -2640,10 +2645,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 .team-feature:hover .title {
     background: #b3003c;
     color:#000;
-}
-
-.team-feature:hover .desc-wrap a {
-    color: #b3003c;
 }
 
 @media (max-width: 991px) {
@@ -3121,9 +3122,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     }
 }
 
-.link-nav {
+.link-nav a {
     margin-top: 10px;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 3px 3px black;
 }
 
 .about-banner {
@@ -3145,13 +3149,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-content h1 {
     font-size: 48px;
-    font-weight: 600
+    font-weight: 600;
+    color: white;
+    text-shadow: 3px 3px black;
 }
 
 .about-content a {
-    color: #fff;
+    /* color: #fff; */
     font-weight: 300;
-    font-size: 14px
+    /* font-size: 14px */
 }
 
 .about-content .lnr {
@@ -3174,7 +3180,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .info-area .info-area-right p {
     max-width: 450px;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+}
+
+.info-area-right p {
+    font-size: 18px;
 }
 
 @media (max-width: 1024px) and (min-width: 991px) {
@@ -5047,4 +5057,31 @@ dl.toggle.time-line:before {
 
 .social-feed-area .social-feed-right .social-feed-details ul li:last-child {
     border-bottom: none
+}
+
+.secondary-btn {
+    background: #FFF;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #b3003c;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative
+}
+
+.secondary-btn:hover {
+    color: #fff;
+    background: #b3003c;
+}
+
+.contact-details {
+    padding: 5px;
 }

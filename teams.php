@@ -21,66 +21,132 @@
 
 			<section class="team-feature-area section-gap pb-120">
 				<div class="container">
+					<h1 style="text-align: center; margin:10px;">Active Teams</h1>
 					<div class="row">
-						<div class="col-lg-6">
+						<div class="col-lg-4">
 							<div class="team-feature">
 								<div class="title">
-									<h4>IEEE</h4>
+									<h4>IGVC</h4>
 								</div>
 								<div class="desc-wrap">
-									<p>
-										Each year our IEEE robotics team is challenged to make a fully autonomous robot to navigate and complete tasks.
-										The competition takes place at the IEEE Region 5 Conference and is located in a different city in the conference every year.
-									</p>
-									<a href="ieee.php">Learn More</a>									
+									<a href="http://www.igvc.org/">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>							
 								</div>
 							</div>
 			            </div>
-						<div class="col-lg-6">
+						<div class="col-lg-4">
+							<div class="team-feature">
+								<div class="title">
+									<h4>NRC</h4>
+								</div>
+								<div class="desc-wrap">
+									<a href="https://www.thenrc.org/">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>								
+								</div>
+							</div>
+			            </div>
+			            <div class="col-lg-4">
 							<div class="team-feature">
 								<div class="title">
 									<h4>Mercury</h4>
 								</div>
 								<div class="desc-wrap">
-									<p>
-										The Mercury robotics team builds a robot that is operated remotely from Norman, OK.
-										The robot is over 50 miles away from its operator, as the competition takes place in Stillwater, OK every year.
-										If robotic arms and obstacle courses interest you, this team is a good fit.
-									</p>
-									<a href="mercury.php">Learn More</a>									
+									<a href="#">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>								
+								</div>
+							</div>
+						</div>									
+					</div>
+				</div>	
+				<div class="container">
+					<h1 style="text-align: center; margin:10px;">Past Teams</h1>
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="team-feature">
+								<div class="title">
+									<h4>IEEE</h4>
+								</div>
+								<div class="desc-wrap">
+									<a href="#"">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>							
 								</div>
 							</div>
 			            </div>
-			            <div class="col-lg-6">
-							<div class="team-feature">
-								<div class="title">
-									<h4>Robomagellan</h4>
-								</div>
-								<div class="desc-wrap">
-									<p>
-										Robomagellan is our newest team, and will make its debut in the upcoming 2018-19 season. 
-										Modeled after the 2005 DARPA Grand Challenge, autonomous robots must traverse an outdoor course 
-										and compete to complete the course as fast as possible.
-									</p>
-									<a href="robomagellan.php">Learn More</a>									
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6">
+						<div class="col-lg-4">
 							<div class="team-feature">
 								<div class="title">
 									<h4>Sumobot</h4>
 								</div>
 								<div class="desc-wrap">
-									<p>
-										Sumobot travels to California every year to compete in the 3kg division of autonomous sumo at RoboGames.
-										Doing battle with other teams in the ring, this team's goal is to push other robots out of the circle.
-										This team is a great place to start with competitive robotics.
-									</p>
-									<a href="sumobot.php">Learn More</a>									
+									<a href="#/">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>								
 								</div>
 							</div>
-						</div>											
+			            </div>
+			            <div class="col-lg-4">
+							<div class="team-feature">
+								<div class="title">
+									<h4>Robomagellan</h4>
+								</div>
+								<div class="desc-wrap">
+									<a href="#">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>								
+								</div>
+							</div>
+						</div>									
+					</div>
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="team-feature">
+								<div class="title">
+									<h4>ASEE</h4>
+								</div>
+								<div class="desc-wrap">
+									<a href="#">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>							
+								</div>
+							</div>
+			            </div>
+						<div class="col-lg-4">
+							<div class="team-feature">
+								<div class="title">
+									<h4>KIPR</h4>
+								</div>
+								<div class="desc-wrap">
+									<a href="#">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>								
+								</div>
+							</div>
+			            </div>
+			            <div class="col-lg-4">
+							<div class="team-feature">
+								<div class="title">
+									<h4>Mercury (OSU)</h4>
+								</div>
+								<div class="desc-wrap">
+									<a href="#">Competition Website</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet pulvinar est. In ac turpis felis. Sed eleifend nisi non sodales faucibus. Donec ut finibus velit. Fusce mollis nibh id commodo pellentesque. Donec condimentum blandit eleifend. Nam urna tortor, aliquet ut nunc vitae, finibus egestas massa.
+
+Pellentesque pellentesque metus eget felis feugiat suscipit. Fusce laoreet id ipsum varius mollis. Nunc quis congue lorem, eu vulputate sapien. Nam vulputate viverra hendrerit. Vestibulum in sem non dolor suscipit volutpat vitae sit amet ligula. Cras nibh elit, rutrum ut vestibulum eu, sagittis et sapien. Phasellus euismod felis nibh, ac ullamcorper enim feugiat.</p>								
+								</div>
+							</div>
+						</div>									
 					</div>
 				</div>	
 			</section>
