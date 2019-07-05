@@ -2018,8 +2018,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-menu {
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     /* border-bottom: 1px solid #39353e */
 }
 
@@ -2607,7 +2607,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team-feature .title {
-    background: rgb(110, 110, 110);
+    background: rgb(70, 70, 70);
     padding: 20px 0px;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -2620,12 +2620,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team-feature .subtitle {
-    background: rgb(70, 70, 70);
-    padding: 10px 0px;
-    -webkit-transition: all 0.3s ease 0s;
-    -moz-transition: all 0.3s ease 0s;
-    -o-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s
+    background: rgb(110, 110, 110);
+    padding: 8px 0px;
 }
 
 .team-feature .subtitle h4 {
@@ -2634,7 +2630,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team-feature .subtitle h4 a {
-    color: #fe5f5f;
+    color: #ccc;
 }
 
 .team-feature .desc-wrap {

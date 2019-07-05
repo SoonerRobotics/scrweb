@@ -29,7 +29,7 @@
 									<h4>IGVC</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets TBD</h4>
+									<h4>Meets: TBD</h4>
 								</div>
 								<div class="subtitle">
 									<h4>Captain: <a href="mailto:noah.zemlin@ou.edu">Noah Zemlin</a></h4>
@@ -50,7 +50,7 @@
 									<h4>NRC</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets TBD</h4>
+									<h4>Meets: TBD</h4>
 								</div>
 								<div class="subtitle">
 									<h4>Captain: <a href="#">TBD</a></h4>
@@ -69,7 +69,7 @@
 									<h4>Pluto</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets TBD</h4>
+									<h4>Meets: TBD</h4>
 								</div>
 								<div class="subtitle">
 									<h4>Captain: <a href="mailto:srb@ou.edu">Sarah Brown</a></h4>
