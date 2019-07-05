@@ -1951,7 +1951,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-top {
     background: #04091e;
-    font-size: 12px;
+    font-size: 22px;
     padding: 8px
 }
 
@@ -2141,8 +2141,9 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     color: #fff;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 24px;
     text-transform: uppercase;
+    text-shadow: 1px 1px black;
     outline: none
 }
 
@@ -2481,7 +2482,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area .overlay-bg {
-    background-color: rgba(4, 9, 30, 0.6)
+    background-color: rgba(4, 9, 30, 0.4)
 }
 
 @media (max-width: 767px) {
@@ -3154,7 +3155,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-content {
     margin-top: 110px;
-    padding: 90px 0px;
+    padding: 100px 0px;
     text-align: center
 }
 
@@ -3168,7 +3169,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 48px;
     font-weight: 600;
     color: white;
-    text-shadow: 3px 3px black;
+    text-shadow: 4px 4px black;
 }
 
 .about-content a {
