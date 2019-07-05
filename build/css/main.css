@@ -2461,7 +2461,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-results {
-    background: url(../img/merc-award-2013.jpg) right;
+    background: url(../img/mercury19.jpg) right;
     background-size: cover
 }
 
@@ -2618,6 +2618,24 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #fff;
 }
 
+.team-feature .subtitle {
+    background: rgb(70, 70, 70);
+    padding: 10px 0px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s
+}
+
+.team-feature .subtitle h4 {
+    padding: 5px;
+    color: #fff;
+}
+
+.team-feature .subtitle h4 a {
+    color: #fe5f5f;
+}
+
 .team-feature .desc-wrap {
     padding: 20px;
     background-color: #fff;
@@ -2631,7 +2649,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
-    color: #F22;
 }
 
 .team-feature .desc-wrap p {
@@ -5084,4 +5101,13 @@ dl.toggle.time-line:before {
 
 .contact-details {
     padding: 5px;
+}
+
+/* blue is bad*/
+a {
+    color: #b22222;
+}
+
+a:hover {
+    color: #e26868;
 }
