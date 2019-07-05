@@ -100,6 +100,21 @@
 								</div>
 								<div class="single-contact-address d-flex">
 									<div class="icon profile-pic">
+										<img class ="profile-pic" src="img/officers/socialmedia.png"></img>
+									</div>
+									<div class="contact-details">
+										<h5>Social Media</h5>
+										<p>
+											Stephanie Sheldon 
+											<br>
+											<a href="mailto:Stephanie.C.Sheldon-1@ou.edu">Email</a>
+											<br>
+											<i>Mechanical Engineering</i>
+										</p>
+									</div>
+								</div>
+								<div class="single-contact-address d-flex">
+									<div class="icon profile-pic">
 										<img class ="profile-pic" src="img/officers/housekeeper.png"></img>
 									</div>
 									<div class="contact-details">
@@ -122,7 +137,7 @@
 										<p>
 											Kevin Cronch
 											<br>
-											<a href="kevin.c.cronch@ou.edu">Email</a>
+											<a href="mailto:kevin.c.cronch@ou.edu">Email</a>
 											<br>
 											<i>Electrical Engineering</i>
 										</p>
@@ -143,7 +158,9 @@
 									<div class="contact-details">
 										<h5>Norman, Oklahoma</h5>
 										<p>
-											850 South Jenkins Avenue
+											850 South Jenkins Avenue<br/>
+											<a href="http://www.ou.edu/coe/about/facilities/practice">ExxonMobil Lawrence G. Rawl Engineering Practice Facility</a><br/>
+											Basement Bench Lab
 										</p>
 									</div>
 								</div>

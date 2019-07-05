@@ -31,8 +31,8 @@
 						</dt>
 						<dd>
 							<ul>
-								<li>IEEE: T-6th place (out of ~30 team)</li>
-								<li>Mercury: 2nd place (by points achieved)</li>
+								<li>IEEE: T-6th place (out of ~30 teams)</li>
+								<li>Mercury: 2nd place (by points scored)</li>
 								<li>Sumobot: Competition Cancelled</li>
 								<li>Robomagellan: Competition Cancelled</li>
 							</ul>
