@@ -2472,7 +2472,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-contact {
-    background: url(../img/repf.jpg) right;
+    background: url(../img/officers.jpg) right;
     background-size: cover
 }
 
@@ -3141,7 +3141,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 0px;
     font-size: 20px;
     color: white;
-    text-shadow: 3px 3px black;
+    text-shadow: 1px 1px 0 #000;
 }
 
 .about-banner {
@@ -3165,7 +3165,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 48px;
     font-weight: 600;
     color: white;
-    text-shadow: 4px 4px black;
+    text-shadow: 3px 3px 0 #000;
 }
 
 .about-content a {
