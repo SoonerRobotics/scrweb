@@ -1951,7 +1951,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-top {
     background: #04091e;
-    font-size: 12px;
+    font-size: 22px;
     padding: 8px
 }
 
@@ -2018,9 +2018,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-menu {
-    padding-bottom: 20px;
-    padding-top: 20px;
-    border-bottom: 1px solid #39353e
+    padding-bottom: 15px;
+    padding-top: 15px;
+    /* border-bottom: 1px solid #39353e */
 }
 
 #header {
@@ -2122,7 +2122,7 @@ h1, h2, h3, h4, h5, h6 {
     right: 15px;
     font-family: FontAwesome;
     font-style: normal;
-    font-weight: normal
+    font-weight: normal;
 }
 
 .sf-arrows ul .sf-with-ul:after {
@@ -2141,8 +2141,9 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     color: #fff;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 24px;
     text-transform: uppercase;
+    text-shadow: 1px 1px black;
     outline: none
 }
 
@@ -2351,7 +2352,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn:hover {
-    color: #fff
+    color: #b3003c;
+    background: #fff;
 }
 
 .primary-btn:hover span {
@@ -2420,62 +2422,67 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-home {
-    background: url(../img/robot-banner.jpg) right;
+    background: url(../img/scr-banner.jpg) center;
     background-size: cover
 }
 
 .banner-area-about {
-    background: url(../img/beaglebone-led.jpg) right;
+    background: url(../img/bench-lab.jpg) center;
     background-size: cover
 }
 
 .banner-area-teams {
-    background: url(../img/IEEE_CAD_Robot.png) right;
+    background: url(../img/IEEE_CAD_Robot.png) center;
     background-size: cover
 }
 
 .banner-area-ieee {
-    background: url(../img/ieee-banner.jpg) right;
+    background: url(../img/ieee-banner.jpg) center;
     background-size: cover
 }
 
 .banner-area-mercury {
-    background: url(../img/mercury-banner.jpg) right;
+    background: url(../img/mercury-banner.jpg) center;
     background-size: cover
 }
 
 .banner-area-robomagellan {
-    background: url(../img/usa-map.jpg) right;
+    background: url(../img/usa-map.jpg) center;
     background-size: cover
 }
 
 .banner-area-sumo {
-    background: url(../img/sumobot-banner.png) right;
+    background: url(../img/sumobot-banner.png) center;
     background-size: cover
 }
 
 .banner-area-events {
-    background: url(../img/clock.jpg) right;
+    background: url(../img/clock.jpg) center;
     background-size: cover
 }
 
 .banner-area-results {
-    background: url(../img/merc-award-2013.jpg) right;
+    background: url(../img/mercury19.jpg) center;
     background-size: cover
 }
 
 .banner-area-sponsors {
-    background: url(../img/piggybank.jpg) right;
+    background: url(../img/piggybank.jpg) center;
     background-size: cover
 }
 
 .banner-area-contact {
-    background: url(../img/canva-mailbox.jpg) right;
+    background: url(../img/officers.jpg) center;
+    background-size: cover
+}
+
+.banner-area-media {
+    background: url(../img/media.jpg) center;
     background-size: cover
 }
 
 .banner-area .overlay-bg {
-    background-color: rgba(4, 9, 30, 0.6)
+    background-color: rgba(4, 9, 30, 0.4)
 }
 
 @media (max-width: 767px) {
@@ -2600,7 +2607,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team-feature .title {
-    background: rgb(110, 110, 110);
+    background: rgb(70, 70, 70);
     padding: 20px 0px;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -2610,6 +2617,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .team-feature .title h4 {
     color: #fff;
+}
+
+.team-feature .subtitle {
+    background: rgb(110, 110, 110);
+    padding: 8px 0px;
+}
+
+.team-feature .subtitle h4 {
+    padding: 5px;
+    color: #fff;
+}
+
+.team-feature .subtitle h4 a {
+    color: #ccc;
 }
 
 .team-feature .desc-wrap {
@@ -2625,7 +2646,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
-    color: #222
+}
+
+.team-feature .desc-wrap p {
+    padding-top: 10px;
 }
 
 .team-feature:hover {
@@ -2635,10 +2659,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 .team-feature:hover .title {
     background: #b3003c;
     color:#000;
-}
-
-.team-feature:hover .desc-wrap a {
-    color: #b3003c;
 }
 
 @media (max-width: 991px) {
@@ -3116,9 +3136,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     }
 }
 
-.link-nav {
+.link-nav a {
     margin-top: 10px;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px 0 #000;
 }
 
 .about-banner {
@@ -3128,7 +3151,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-content {
     margin-top: 110px;
-    padding: 90px 0px;
+    padding: 100px 0px;
     text-align: center
 }
 
@@ -3140,13 +3163,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-content h1 {
     font-size: 48px;
-    font-weight: 600
+    font-weight: 600;
+    color: white;
+    text-shadow: 3px 3px 0 #000;
 }
 
 .about-content a {
-    color: #fff;
+    /* color: #fff; */
     font-weight: 300;
-    font-size: 14px
+    /* font-size: 14px */
 }
 
 .about-content .lnr {
@@ -3169,7 +3194,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .info-area .info-area-right p {
     max-width: 450px;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+}
+
+.info-area-right p {
+    font-size: 18px;
 }
 
 @media (max-width: 1024px) and (min-width: 991px) {
@@ -5042,4 +5071,40 @@ dl.toggle.time-line:before {
 
 .social-feed-area .social-feed-right .social-feed-details ul li:last-child {
     border-bottom: none
+}
+
+.secondary-btn {
+    background: #FFF;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #b3003c;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative
+}
+
+.secondary-btn:hover {
+    color: #fff;
+    background: #b3003c;
+}
+
+.contact-details {
+    padding: 5px;
+}
+
+/* blue is bad*/
+a {
+    color: #b22222;
+}
+
+a:hover {
+    color: #e26868;
 }

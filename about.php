@@ -8,7 +8,7 @@
 			<section class="banner-area relative banner-area-about" id="home">	
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
-					<div class="row d-flex fullscreen align-items-center justify-content-center">
+					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
 								About Us				
@@ -18,9 +18,9 @@
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->	
-
-			<?php include "feature.php"; ?>		
+			<!-- End banner Area -->
+			
+			<br/>
 
 			<!-- Start info Area -->
 			<section class="info-area pb-120">
@@ -127,6 +127,8 @@
 				</div>	
 			</section>
 			<!-- End mission Area -->
+
+			<br/>
 			
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
@@ -135,8 +137,7 @@
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+			<script src="js/vendor/bootstrap.min.js"></script>
   			<script src="js/easing.min.js"></script>			
 			<script src="js/hoverIntent.js"></script>
 			<script src="js/superfish.min.js"></script>	

@@ -15,12 +15,12 @@
 		    <?php include "navbar.php";?>
 
 			<!-- start banner Area -->
-			<section class="banner-area banner-area-home relative" id="home">
-				<div class="overlay overlay-bg"></div>	
-				<div class="container">
-					<div class="row fullscreen d-flex align-items-center justify-content-between">
-						<div class="banner-content col-lg-9 col-md-12">
-							<h1 class="text-uppercase">
+			<section class="banner-area relative banner-area-home" id="home">	
+				<div class="overlay overlay-bg"></div>
+				<div class="container">				
+					<div class="row d-flex align-items-center justify-content-center">
+						<div class="about-content col-lg-12">
+							<h1 class="text-uppercase text-white">
 								Our mission is to win			
 							</h1>
 							<br>
@@ -29,6 +29,7 @@
 								 
 							</p> -->
 							<a href="https://ou.us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=db1cf84278" class="primary-btn text-uppercase">Join Us</a>
+							<a href="https://giving.oufoundation.org/OnlineGivingWeb/Giving/OnlineGiving/SCR" class="primary-btn text-uppercase">Donate</a>
 						</div>										
 					</div>
 				</div>					
@@ -39,82 +40,58 @@
 			<?php include "feature.php"; ?>
 			<!-- End feature Area -->
 
-			<!-- Message/News area -->
-			<?php include "news.php"; ?>
-
-			<?php
-				require_once("upcoming_events.php");
-				if(get_num_events() > 0)
-				{
-			?>
-				<section class="gallery-area section-half-gap">
-					<div class="container">
-						<div class="row d-flex justify-content-center">
-							<div class="menu-content pb-70 col-lg-8">
-								<div class="title text-center">
-									<h1 class="mb-10">Upcoming Events</h1>
-								</div>
+			<!-- Start gallery Area -->
+			<section class="gallery-area">
+				<div class="container">
+				<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Our Sponsors</h1>
+								<p>
+									These sponsors make it possible for our teams to build robots and go to competition.
+									If you are interested in sponsoring our robotics teams, send us an email at&nbsp; <a href="mailto:scr@ou.edu">scr@ou.edu</a>
+								</p>
+								<b>You can also donate to the team by clicking the Donate button at the top!</b>
 							</div>
 						</div>
-					
-			<?php
-					printEvents();
-			?>
 					</div>
-				</section>
-			<?php
-				}
-			?>
-
-            <!-- Start social feeds -->
-            <section class="gallery-area section-qtr-gap">
-					<div class="container">
-						<div class="row d-flex justify-content-center">
-							<div class="menu-content pb-70 col-lg-8">
-								<div class="title text-center">
-									<h1 class="mb-10">Social</h1>
+					<div class="row justify-content-center">
+						<div class="col-lg-6">
+							<a href="http://www.ou.edu/coe" class="img-gal">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/gcoe.png" alt="">		
+									</div>
 								</div>
-							</div>
+							</a>
 						</div>
-
-                        
-                        <section class="social-feed-area">
-    	                    <div class="container">
-                                <div class="row d-flex justify-content-center">
-                                    <!-- Facebook -->
-                                    <div class="col-lg-4 social-feed-right">
-    		    	                    <!--<div class="social-feed-details">-->
-                                        <div class="fb-page" data-href="https://www.facebook.com/OURobots/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                                            <blockquote cite="https://www.facebook.com/OURobots/" class="fb-xfbml-parse-ignore">
-                                                <a href="https://www.facebook.com/OURobots/">Sooner Competitive Robotics</a>
-                                            </blockquote>
-                                        </div>
-                                        <!--</div>-->
-                                    </div>
-                                    <!-- Instagram -->
-                                    <div class="col-lg-4 social-feed-right">
-    		    	                    <div class="social-feed-details">
-                                            <div id="pixlee_container"></div>
-                                            <script type="text/javascript">
-                                                window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'ony2iod3Z1YFa9hS0b8A'});Pixlee.addSimpleWidget({widgetId:'13765'});};
-                                            </script>
-                                            <script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
-                                        </div>
-                                    </div>
-                                    <!-- Twitter -->
-                                    <div class="col-lg-4 social-feed-right">
-    		    	                    <div class="social-feed-details">
-                                            <a class="twitter-timeline" href="https://twitter.com/OU_SCR?ref_src=twsrc%5Etfw">Tweets by OU_SCR</a> 
-                                            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>    
-                    </div>
-				</section>
-            <!-- End social feeds -->
-						
+						<br>
+						<div class="col-md-6">
+							<a href="http://www.ou.edu/sga" class="img-gal">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/sga.png" alt="">		
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-md-4">
+							<a href="https://www.twmetals.com/" class="img-gal">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/twmetals.png" alt="">		
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End gallery Area -->	
+			
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
 			<!-- End footer Area -->	
