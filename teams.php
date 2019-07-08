@@ -58,7 +58,10 @@
 								<div class="desc-wrap">
 									<a href="https://www.thenrc.org/">Competition Website</a>
 									<p>NRC, the National Robotics Challenge, is held annualy each spring. 
-										NRC features many different competitions from autonomous driving robots to combat robots. This team is intermediate difficulty between Pluto and IGVC.
+										NRC features many different competitions from autonomous driving robots to combat robots. 
+										We compete in the Autonomous Vehicle Challenge (AVC) competition, which is similar to our IGVC team in that the team must create a fully autonomous driving vehicle.
+										The difference is mostly in that these robots are smaller and don't have less restrictions like staying in a lane and dodging obstacles.
+										This team is intermediate difficulty between Pluto and IGVC.
 									</p>								
 								</div>
 							</div>

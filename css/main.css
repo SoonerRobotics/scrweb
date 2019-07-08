@@ -2422,62 +2422,62 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-home {
-    background: url(../img/robot-banner.jpg) right;
+    background: url(../img/scr-banner.jpg) center;
     background-size: cover
 }
 
 .banner-area-about {
-    background: url(../img/beaglebone-led.jpg) right;
+    background: url(../img/bench-lab.jpg) center;
     background-size: cover
 }
 
 .banner-area-teams {
-    background: url(../img/IEEE_CAD_Robot.png) right;
+    background: url(../img/IEEE_CAD_Robot.png) center;
     background-size: cover
 }
 
 .banner-area-ieee {
-    background: url(../img/ieee-banner.jpg) right;
+    background: url(../img/ieee-banner.jpg) center;
     background-size: cover
 }
 
 .banner-area-mercury {
-    background: url(../img/mercury-banner.jpg) right;
+    background: url(../img/mercury-banner.jpg) center;
     background-size: cover
 }
 
 .banner-area-robomagellan {
-    background: url(../img/usa-map.jpg) right;
+    background: url(../img/usa-map.jpg) center;
     background-size: cover
 }
 
 .banner-area-sumo {
-    background: url(../img/sumobot-banner.png) right;
+    background: url(../img/sumobot-banner.png) center;
     background-size: cover
 }
 
 .banner-area-events {
-    background: url(../img/clock.jpg) right;
+    background: url(../img/clock.jpg) center;
     background-size: cover
 }
 
 .banner-area-results {
-    background: url(../img/mercury19.jpg) right;
+    background: url(../img/mercury19.jpg) center;
     background-size: cover
 }
 
 .banner-area-sponsors {
-    background: url(../img/piggybank.jpg) right;
+    background: url(../img/piggybank.jpg) center;
     background-size: cover
 }
 
 .banner-area-contact {
-    background: url(../img/officers.jpg) right;
+    background: url(../img/officers.jpg) center;
     background-size: cover
 }
 
 .banner-area-media {
-    background: url(../img/media.jpg) right;
+    background: url(../img/media.jpg) center;
     background-size: cover
 }
 
