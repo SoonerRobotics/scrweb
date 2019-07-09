@@ -21,6 +21,7 @@
 				<ul class="nav-menu">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
+					<li><a href="pluto.php">Pluto</a></li>
 					<li><a href="teams.php">Teams</a></li>
 					<li><a href="results.php">Results</a></li>
 					<li><a href="media.php">Social</a></li>

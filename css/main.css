@@ -2435,6 +2435,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-size: cover
 }
 
+.banner-area-pluto {
+    background: url(../img/epic-robot.jpg) center;
+    background-size: cover
+}
+
 .banner-area-teams {
     background: url(../img/IEEE_CAD_Robot.png) center;
     background-size: cover
