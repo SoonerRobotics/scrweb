@@ -19,20 +19,12 @@
 		</div>
 			<nav id="nav-menu-container">
 				<ul class="nav-menu">
-				<li><a href="index.php">Home</a></li>
-				<li><a href="about.php">About</a></li>
-				<li class="menu-has-children"><a href="teams.php">Teams</a>
-					<ul>
-						<li><a href="ieee.php">IEEE</a></li>
-						<li><a href="mercury.php">Mercury</a></li>
-						<li><a href="robomagellan.php">Robomagellan</a></li>
-						<li><a href="sumobot.php">Sumobot</a></li>
-					</ul>
-				</li>
-				<li><a href="events.php">Events</a></li>
-				<li><a href="results.php">Results</a></li>
-				<li><a href="sponsors.php">Sponsors</a></li>			          					          		          
-				<li><a href="contact.php">Contact</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="about.php">About</a></li>
+					<li><a href="teams.php">Teams</a></li>
+					<li><a href="results.php">Results</a></li>
+					<li><a href="media.php">Social</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</nav><!-- #nav-menu-container -->	    		
 		</div>

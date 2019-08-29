@@ -29,7 +29,7 @@
 									<h4>IGVC</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets: TBD</h4>
+									<h4>Meets: Mon/Tue/Thur 8-10pm</h4>
 								</div>
 								<div class="subtitle">
 									<h4>Captain: <a href="mailto:noah.zemlin@ou.edu">Noah Zemlin</a></h4>
@@ -50,10 +50,10 @@
 									<h4>NRC</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets: TBD</h4>
+									<h4>Meets: Wed 7-9pm</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Captain: <a href="#">TBD</a></h4>
+									<h4>Captain: <a href="mailto:thaddeus@ou.edu">Thaddeus Morris</a></h4>
 								</div>
 								<div class="desc-wrap">
 									<a href="https://www.thenrc.org/">Competition Website</a>
@@ -72,7 +72,7 @@
 									<h4>Pluto</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets: TBD</h4>
+									<h4>Meets: Tue 6-8pm</h4>
 								</div>
 								<div class="subtitle">
 									<h4>Captain: <a href="mailto:srb@ou.edu">Sarah Brown</a></h4>

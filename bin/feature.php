@@ -1,4 +1,5 @@
 <!-- Start feature Area -->
+
 <section class="feature-area pb-120">
 	<div class="container">
 		<div class="row">
@@ -21,7 +22,7 @@
 			<div class="col-lg-4">
 				<div class="single-feature">
 					<div class="title">
-						<h4>Challenge Youself</h4>
+						<h4>Challenge Yourself</h4>
 					</div>
 					<div class="desc-wrap">
 						<p>
