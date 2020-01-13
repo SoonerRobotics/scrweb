@@ -34,7 +34,7 @@
 			
 			<section class="team-feature-area pb-120">
 				<div class="container">
-					<h1 style="text-align: center; margin:10px;">Active Teams</h1>
+					<h1 style="text-align: center; margin:10px;">Active Teams (Spring 2020)</h1>
 					<div class="row">
 						<div class="col-lg-4">
 							<div class="team-feature">
