@@ -28,7 +28,8 @@
 							<p class="pt-10 pb-10">
 								 
 							</p> -->
-							<a href="https://ou.us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=db1cf84278" class="primary-btn text-uppercase">Join Us</a>
+							<a href="https://ou.us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=db1cf84278" class="primary-btn text-uppercase">Mailing List</a>
+							<a href="teams.php" class="primary-btn text-uppercase">Join Us</a>
 							<a href="https://giving.oufoundation.org/OnlineGivingWeb/Giving/OnlineGiving/SCR" class="primary-btn text-uppercase">Donate</a>
 						</div>										
 					</div>

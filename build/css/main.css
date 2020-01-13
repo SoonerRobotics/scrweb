@@ -36,10 +36,9 @@
 }
 
 body {
-    color: #777;
+    color: #444;
     font-family: "Poppins", sans-serif;
     font-size: 14px;
-    font-weight: 300;
     line-height: 1.625em;
     position: relative
 }
@@ -3290,7 +3289,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 10px 20px 20px;
     font-size: 14px;
     line-height: 1.8;
-    color: #777
+    color: #333
 }
 
 .accordion>dt>a, .accordion>dt>a:after, .toggle>dt>a, .toggle>dt>a:after {

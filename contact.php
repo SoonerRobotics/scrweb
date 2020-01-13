@@ -172,7 +172,15 @@
 										<h5><a href="mailto:scr@ou.edu">scr@ou.edu</a></h5>
 										<p>Drop us a line if you have any questions!</p>
 									</div>
-								</div>														
+								</div>			
+								<div class="single-contact-address d-flex flex-row">
+									<div class="icon">
+										<span class="lnr lnr-redo"></span>
+									</div>
+									<div class="contact-details">
+										<h5><a href="https://orgsync.com/118484/chapter">OrgSync Page</a></h5>
+									</div>
+								</div>													
 							</div>
 						</div>
 					</div>

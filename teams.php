@@ -19,38 +19,51 @@
 			</section>
 			<!-- End banner Area -->	
 
-			<section class="team-feature-area section-gap pb-120">
+			<br/>
+
+			<div class="container">
+				<div class="row d-flex justify-content-center">
+					<div class="menu-content pb-70 col-lg-8">
+						<div class="title text-center">
+							<h1 class="mb-10">How to Join</h1>
+							Joining SCR is as easy as simply showing up to any of our meetings! Any captains or officers will gladly help you get more information or even get you started building robots right away. Feel free to reach out to any of the captains by clicking their names or email the officers at <a href="mailto:scr@ou.edu">scr@ou.edu</a> with any questions!</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<section class="team-feature-area pb-120">
 				<div class="container">
 					<h1 style="text-align: center; margin:10px;">Active Teams</h1>
 					<div class="row">
 						<div class="col-lg-4">
 							<div class="team-feature">
 								<div class="title">
-									<h4>IGVC</h4>
+									<h4>Mercury</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets: Mon/Tue/Thur 8-10pm</h4>
+									<h4>Tue/Thur 6-8pm</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Captain: <a href="mailto:noah.zemlin@ou.edu">Noah Zemlin</a></h4>
+									<h4>Captain: <a href="mailto:srb@ou.edu">Sarah Brown</a></h4>
 								</div>
 								<div class="desc-wrap">
-									<a href="http://www.igvc.org/">Competition Website</a>
-									<p>IGVC, the Intelligent Ground Vehicle Competition, is held in the early summer each year. 
-										This competition is all about creating autonomous robots that can navigate a course with lanes and obstacles. 
-										IGVC is the most advanced competition we compete in at SCR, requiring strong mechanical, electrical, and software skills. 
-										The software team will use many advanced robotics techniques like localization, planning, and computer vision to guide the robot through the lanes and around the obstacles. 
-										Our IGVC robot is also our biggest robot we build, so the mechanical and electrical teams must deal with problems such as weight-strength compromises, torque requirements, battery capabilities, and much more.</p>							
+									<a href="https://mercury.okstate.edu/content/mercury-challenge">Competition Website</a>
+									<p>Mercury is an annual competition held by Oklahoma State University. 
+										The Mercury competition features robots that must navigiate a defined course while completing one or more tasks (may include picking up objects and transporting them, launching objects, and/or interacting with a device). 
+										The robots built for this competition are teleoperated, meaning that they are manually controlled but from a remote location.
+										Mercury is the best competition for beginners at SCR, but still has many interesting design considerations. 
+										Considerations include designing the mechanisms to complete the required tasks, reducing remote latency to make control easy, and optimizing the robot for manueverability.</p>								
 								</div>
 							</div>
-			            </div>
+						</div>	
 						<div class="col-lg-4">
 							<div class="team-feature">
 								<div class="title">
 									<h4>NRC</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets: Wed 7-9pm</h4>
+									<h4>Mon 8-10pm<br/>Wed 7-9pm</h4>
 								</div>
 								<div class="subtitle">
 									<h4>Captain: <a href="mailto:thaddeus@ou.edu">Thaddeus Morris</a></h4>
@@ -66,27 +79,27 @@
 								</div>
 							</div>
 			            </div>
-			            <div class="col-lg-4">
+						<div class="col-lg-4">
 							<div class="team-feature">
 								<div class="title">
-									<h4>Pluto</h4>
+									<h4>IGVC</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Meets: Tue 6-8pm</h4>
+									<h4>Tue/Thur 8-10pm (General)<br/>Mon/Wed 3:30-4:30pm (Mechanical)</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Captain: <a href="mailto:srb@ou.edu">Sarah Brown</a></h4>
+									<h4>Captain: <a href="mailto:noah.zemlin@ou.edu">Noah Zemlin</a></h4>
 								</div>
 								<div class="desc-wrap">
-									<a href="#">Competition Website</a>
-									<p>Pluto is an annual spring competition held by SCR and OU ourselves, inspired by the Mercury competition. 
-										The Pluto competition features robots that must navigiate a defined course while completing one or more tasks (may include picking up objects and transporting them, launching objects, or interacting with a device). 
-										The robots are controlled by human operators, but must be controlled remotely. 
-										Pluto is the best competition for beginners at SCR, but still has many interesting design considerations. 
-										Considerations include designing the mechanisms to complete the required tasks, reducing remote latency to make control easy, and optimizing the robot for manueverability.</p>								
+									<a href="http://www.igvc.org/">Competition Website</a>
+									<p>IGVC, the Intelligent Ground Vehicle Competition, is held in the early summer each year. 
+										This competition is all about creating autonomous robots that can navigate a course with lanes and obstacles. 
+										IGVC is the most advanced competition we compete in at SCR, requiring strong mechanical, electrical, and software skills. 
+										The software team will use many advanced robotics techniques like localization, planning, and computer vision to guide the robot through the lanes and around the obstacles. 
+										Our IGVC robot is also our biggest robot we build, so the mechanical and electrical teams must deal with problems such as weight-strength compromises, torque requirements, battery capabilities, and much more.</p>							
 								</div>
 							</div>
-						</div>									
+			            </div>								
 					</div>
 				</div>	
 				<div class="container">
@@ -148,18 +161,7 @@
 									<p>KIPR was our team for the KIPR annual robotics challenge featuring multiple categories. We competed in the Aerial and Open categories, winning multiple times.</p>								
 								</div>
 							</div>
-			            </div>
-			            <div class="col-lg-4">
-							<div class="team-feature">
-								<div class="title">
-									<h4>Mercury</h4>
-								</div>
-								<div class="desc-wrap">
-									<a href="https://mercury.okstate.edu/content/mercury-challenge">Competition Website</a>
-									<p>Mercury was an annual competition held by OSU. Teams had to build a robot that could navigate a course and complete a task while controlling the robot manually from at least 50 miles away.</p>								
-								</div>
-							</div>
-						</div>									
+			            </div>								
 					</div>
 				</div>	
 			</section>
