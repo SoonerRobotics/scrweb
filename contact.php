@@ -64,7 +64,7 @@
 											<br>
 											<a href="mailto:kevin.robb@ou.edu">Email</a>
 											<br>
-											<i>Computer Science, Engineering Physics</i>
+											<i>Engineering Physics</i>
 										</p>
 									</div>
 								</div>
@@ -94,7 +94,7 @@
 											<br>
 											<a href="mailto:srb@ou.edu">Email</a>
 											<br>
-											<i>Engineering Physics</i>
+											<i>Computer Engineering</i>
 										</p>
 									</div>
 								</div>
