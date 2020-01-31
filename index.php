@@ -78,16 +78,6 @@
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4">
-							<a href="https://www.twmetals.com/" class="img-gal">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/twmetals.png" alt="">		
-									</div>
-								</div>
-							</a>
-						</div>
 					</div>
 				</div>	
 			</section>
