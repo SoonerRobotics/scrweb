@@ -26,6 +26,19 @@
                 <div class="col-md-6 accordion-left">
                     <!-- accordion 2 start-->
                     <dl class="accordion">
+					<dt>
+							<a href="">2020</a>
+						</dt>
+						<dd>
+							<ul>
+								<li>Mercury: Postponed Until Fall 2020</li>
+								<li>NRC: Postponed and Unable to Attend</li>
+								<li>IGVC: Competition Cancelled</li>
+							</ul>
+							<p style="margin-top: 10px">
+								Context: <a href="https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic">2019–20 coronavirus pandemic</a>
+							</p>
+						</dd>
 						<dt>
 							<a href="">2019</a>
 						</dt>
