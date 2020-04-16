@@ -32,7 +32,7 @@
 						<dd>
 							<ul>
 								<li>Mercury: Postponed Until Fall 2020</li>
-								<li>NRC: Postponed and Unable to Attend</li>
+								<li>NRC: Competition Cancelled</li>
 								<li>IGVC: Competition Cancelled</li>
 							</ul>
 							<p style="margin-top: 10px">

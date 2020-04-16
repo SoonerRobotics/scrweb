@@ -45,9 +45,9 @@
 									<div class="contact-details">
 										<h5>President</h5>
 										<p>
-											Justin Kleiber
+											Sarah Brown
 											<br>
-											<a href="mailto:jkleiber@ou.edu">Email</a>
+											<a href="mailto:srb@ou.edu">Email</a>
 											<br>
 											<i>Computer Engineering</i>
 										</p>
@@ -88,11 +88,11 @@
 										<img class ="profile-pic" src="img/officers/secretary.png"></img>
 									</div>
 									<div class="contact-details">
-										<h5>Secretary | <a href="/teams.php">Mercury</a> Captain</h5>
+										<h5>Secretary</h5>
 										<p>
-											Sarah Brown
+											Jorge Exinia
 											<br>
-											<a href="mailto:srb@ou.edu">Email</a>
+											<a href="mailto:jorge.d.exinia@ou.edu">Email</a>
 											<br>
 											<i>Computer Engineering</i>
 										</p>
@@ -115,31 +115,16 @@
 								</div>
 								<div class="single-contact-address d-flex">
 									<div class="icon profile-pic">
-										<img class ="profile-pic" src="img/officers/housekeeper.png"></img>
+										<img class ="profile-pic" src="img/officers/labmanager.png"></img>
 									</div>
 									<div class="contact-details">
-										<h5>Housekeeping Captain | <a href="/teams.php">IGVC</a> Captain</h5>
+										<h5>Lab Manager</h5>
 										<p>
 											Noah Zemlin
 											<br>
 											<a href="mailto:noah.zemlin@ou.edu">Email</a>
 											<br>
 											<i>Computer Science</i>
-										</p>
-									</div>
-								</div>
-								<div class="single-contact-address d-flex">
-									<div class="icon profile-pic">
-										<img class ="profile-pic" src="img/officers/housekeeper2.png"></img>
-									</div>
-									<div class="contact-details">
-										<h5>Housekeeping Captain</h5>
-										<p>
-											Kevin Cronch
-											<br>
-											<a href="mailto:kevin.c.cronch@ou.edu">Email</a>
-											<br>
-											<i>Electrical Engineering</i>
 										</p>
 									</div>
 								</div>

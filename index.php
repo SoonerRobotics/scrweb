@@ -44,7 +44,7 @@
 			<!-- Start gallery Area -->
 			<section class="gallery-area">
 				<div class="container">
-				<div class="row d-flex justify-content-center">
+					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-70 col-lg-8">
 							<div class="title text-center">
 								<h1 class="mb-10">Our Sponsors</h1>
@@ -56,24 +56,43 @@
 							</div>
 						</div>
 					</div>
-					<div class="row justify-content-center">
-						<div class="col-lg-6">
-							<a href="http://www.ou.edu/coe" class="img-gal">
+					<div class="row justify-content-center" style="width:80%; margin: auto">
+						<div class="col-md-6 scr-sponsor">
+							<a href="https://www.altium.com/" class="img-gal">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/gcoe.png" alt="">		
+										<img class="img-fluid" src="img/sponsors/altium.png" alt="Altium">		
 									</div>
 								</div>
 							</a>
 						</div>
-						<br>
-						<div class="col-md-6">
+						<div class="col-md-6 scr-sponsor">
+							<a href="https://assunmotor.com/" class="img-gal">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/assunmotor.png" alt="Assun Motors">		
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 scr-sponsor">
+							<a href="http://www.ou.edu/coe" class="img-gal">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/gcoe.png" alt="OU GCoE">		
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 scr-sponsor">
 							<a href="http://www.ou.edu/sga" class="img-gal">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/sga.png" alt="">		
+										<img class="img-fluid" src="img/sponsors/sga.png" alt="OU SGA">		
 									</div>
 								</div>
 							</a>

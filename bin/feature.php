@@ -1,6 +1,6 @@
 <!-- Start feature Area -->
 
-<section class="feature-area pb-120">
+<section class="feature-area pb-40">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4">
