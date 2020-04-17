@@ -58,7 +58,7 @@
 					</div>
 					<div class="row justify-content-center" style="width:80%; margin: auto">
 						<div class="col-md-6 scr-sponsor">
-							<a href="https://www.altium.com/" class="img-gal">
+							<a href="https://www.altium.com/">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
@@ -68,7 +68,7 @@
 							</a>
 						</div>
 						<div class="col-md-6 scr-sponsor">
-							<a href="https://assunmotor.com/" class="img-gal">
+							<a href="https://assunmotor.com/">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
@@ -78,7 +78,7 @@
 							</a>
 						</div>
 						<div class="col-md-6 scr-sponsor">
-							<a href="http://www.ou.edu/coe" class="img-gal">
+							<a href="http://www.ou.edu/coe">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
@@ -88,7 +88,7 @@
 							</a>
 						</div>
 						<div class="col-md-6 scr-sponsor">
-							<a href="http://www.ou.edu/sga" class="img-gal">
+							<a href="http://www.ou.edu/sga">
 								<div class="single-imgs relative">		
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
