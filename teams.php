@@ -26,7 +26,7 @@
 					<div class="menu-content pb-70 col-lg-8">
 						<div class="title text-center">
 							<h1 class="mb-10">How to Join</h1>
-							Joining SCR is as easy as emailing <a href="mailto:scr@ou.edu">scr@ou.edu</a> or any of the captains below for the invite to our Slack! We use Slack to coordinate all of our communication. Because of the safety precautions we are taking for COVID, all of our meetings are online only this semester with the exception of meetings to build the robot. We hope you join us in building awesome robots! No prior robotics skills are necessary!</p>
+							Joining SCR is as easy as emailing <a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a> or any of the captains below for the invite to our Slack! We use Slack to coordinate all of our communication. Because of the safety precautions we are taking for COVID, all of our meetings are online only this semester with the exception of meetings to build the robots. We hope you join us in building awesome robots! No prior robotics skills are necessary!</p>
 						</div>
 					</div>
 				</div>
@@ -125,9 +125,8 @@
 								</div>
 								<div class="desc-wrap">
 									<a href="http://r5conferences.org/competitions/robotics-competition/"">Competition Website</a>
-									<p>NRC was our team for the annual National Robotics Challenge. NRC features many different competitions from autonomous driving robots to combat robots. 
-										We compete in the Autonomous Vehicle Challenge (AVC) competition, which is similar to our IGVC team in that the team must create a fully autonomous driving vehicle.
-										The difference is mostly in that these robots are smaller and don't have less restrictions like staying in a lane and dodging obstacles.</p>							
+									<p>NRC was our team for the annual National Robotics Challenge. 
+										We competed in the Autonomous Vehicle Challenge (AVC) competition where we had to build a robot that could autonomously navigate a small course as fast as possible.</p>							
 								</div>
 							</div>
 			            </div>
@@ -161,21 +160,5 @@
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
 			<!-- End footer Area -->	
-
-
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-    		<script src="js/jquery.tabs.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>									
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
 		</body>
 	</html>

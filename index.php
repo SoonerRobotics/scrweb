@@ -2,32 +2,83 @@
 	<html lang="en" class="no-js">
 		<?php include "scr-header.php"; ?>
 		<body>	
-            <!-- Include JavaScript SDK for Facebook feed integration -->
-            <div id="fb-root"></div>
-            <script>(function(d, s, id) {
-              var js, fjs = d.getElementsByTagName(s)[0];
-              if (d.getElementById(id)) return;
-              js = d.createElement(s); js.id = id;
-              js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=814259118915161&autoLogAppEvents=1';
-              fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script>
-
 		    <?php include "navbar.php";?>
 
 			<!-- start banner Area -->
-			<section class="banner-area relative banner-area-home" id="home">	
-				<div class="overlay overlay-bg"></div>
-				<div class="container">				
-					<div class="row d-flex align-items-center justify-content-center">
-						<div class="about-content col-lg-12">
-							<h1 class="text-uppercase text-white">
-								Our mission is to win			
-							</h1>
-							<br />
-						</div>										
-					</div>
-				</div>					
-			</section>
+			<section class="container-flex relative">
+				<div id="main_carousel" class="carousel slide carousel-fade" data-ride="carousel">	
+					<!-- <div class="overlay overlay-bg"></div>			 -->
+					<ol class="carousel-indicators">
+						<li data-target="#main_carousel" data-slide-to="0" class="active"></li>
+						<li data-target="#main_carousel" data-slide-to="1"></li>
+						<li data-target="#main_carousel" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner relative">
+						<div class="carousel-item active">
+							<section class="banner-area relative banner-area-home" id="home">	
+								<div class="overlay overlay-bg"></div>
+								<div class="container">				
+									<div class="row d-flex align-items-center justify-content-center">
+										<div class="about-content col-lg-12">
+											<h1 class="text-uppercase text-white">
+												Sooner Competitive Robotics
+											</h1>
+											<h2 class="text-uppercase text-white">
+												Our mission is to win			
+											</h2>
+											<br />
+										</div>										
+									</div>
+								</div>					
+							</section>
+						</div>
+						<div class="carousel-item center-cropped">
+							<section class="banner-area relative banner-area-igvc" id="home">	
+								<div class="overlay overlay-bg"></div>
+								<div class="container">				
+									<div class="row d-flex align-items-center justify-content-center">
+										<div class="about-content col-lg-12">
+											<h1 class="text-uppercase text-white">
+												Sooner Competitive Robotics
+											</h1>
+											<h2 class="text-uppercase text-white">
+												Our mission is to win			
+											</h2>
+											<br />
+										</div>										
+									</div>
+								</div>					
+							</section>
+						</div>				
+						<div class="carousel-item center-cropped">
+							<section class="banner-area relative banner-area-merc-meeting" id="home">	
+								<div class="overlay overlay-bg"></div>
+								<div class="container">				
+									<div class="row d-flex align-items-center justify-content-center">
+										<div class="about-content col-lg-12">
+											<h1 class="text-uppercase text-white">
+												Sooner Competitive Robotics
+											</h1>
+											<h2 class="text-uppercase text-white">
+												Our mission is to win			
+											</h2>
+											<br />
+										</div>										
+									</div>
+								</div>					
+							</section>
+						</div>				
+					</div>	
+					<a class="carousel-control-prev" href="#main_carousel" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#main_carousel" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</section>			
 			<!-- End banner Area -->
 
 			<!-- Start feature Area -->
@@ -137,22 +188,6 @@
 			
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
-			<!-- End footer Area -->	
-
-
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-    		<script src="js/jquery.tabs.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>									
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+			<!-- End footer Area -->			
 		</body>
 	</html>
