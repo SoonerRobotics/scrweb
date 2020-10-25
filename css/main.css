@@ -2021,27 +2021,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-menu {
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     /* border-bottom: 1px solid #39353e */
 }
 
 #header {
-    position: fixed;
+    position: relative;
+    background-color: #2b3648;
     left: 0;
     top: 0;
     right: 0;
     transition: all 0.5s;
-    z-index: 997
-}
-
-#header.header-scrolled {
-    transition: all 0.5s;
-    background-color: rgba(4, 9, 30, 0.9)
-}
-
-#header.header-scrolled .main-menu {
-    border-color: transparent
+    z-index: 997;
+    box-shadow: 0px 2px 10px 0px black;
 }
 
 @media (max-width: 673px) {
@@ -2191,7 +2184,7 @@ h1, h2, h3, h4, h5, h6 {
     position: fixed;
     right: 15px;
     z-index: 999;
-    top: 62px;
+    top: 12px;
     border: 0;
     background: none;
     font-size: 24px;
@@ -2206,12 +2199,15 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 900
 }
 
-@media (max-width: 960px) {
+@media (max-width: 992px) {
     #mobile-nav-toggle {
         display: inline
     }
     #nav-menu-container {
         display: none
+    }
+    #header{
+        position: fixed;
     }
 }
 
@@ -3153,8 +3149,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-content {
-    margin-top: 110px;
-    padding: 100px 0px;
+    padding: 80px 0px;
     text-align: center
 }
 
@@ -4887,7 +4882,7 @@ dl.toggle.time-line:before {
 }
 
 .footer-area {
-    background-color: #04091e
+    background-color: #2b3648
 }
 
 .single-footer-widget h4 {
@@ -5009,18 +5004,28 @@ dl.toggle.time-line:before {
 }
 
 .footer-bottom {
-    padding-top: 50px
+    padding-top: 20px;
+    color: #fff;
 }
 
 .footer-bottom .footer-social {
-    text-align: right
+    text-align: left;
+    font-size: 30px;
 }
 
 @media (max-width: 991px) {
     .footer-bottom .footer-social {
-        text-align: left;
-        margin-top: 30px
+        text-align: center;
+        margin-top: 0px
     }
+}
+
+.footer-bottom li{
+    display: inline-block;
+}
+
+.footer-bottom li a i{
+    margin-top: 10px;
 }
 
 .footer-bottom .lnr, .footer-bottom a {
@@ -5030,8 +5035,8 @@ dl.toggle.time-line:before {
 .footer-bottom .footer-social a {
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     display: inline-block;
     text-align: center;
     -webkit-transition: all 0.3s ease 0s;
