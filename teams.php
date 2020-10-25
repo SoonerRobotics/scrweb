@@ -24,9 +24,11 @@
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-70 col-lg-8">
-						<div class="title text-center">
+						<div class="title text-center how-to-join">
 							<h1 class="mb-10">How to Join</h1>
-							Joining SCR is as easy as emailing <a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a> or any of the captains below for the invite to our Slack! We use Slack to coordinate all of our communication. Because of the safety precautions we are taking for COVID, all of our meetings are online only this semester with the exception of meetings to build the robots. We hope you join us in building awesome robots! No prior robotics skills are necessary!</p>
+							<p>
+								Joining SCR is as easy as emailing <a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a> or any of the captains below for the invite to our Slack! We use Slack to coordinate all of our communication. Because of the safety precautions we are taking for COVID, all of our meetings are online only this semester with the exception of meetings to build the robots. We hope you join us in building awesome robots! No prior robotics skills are necessary!</p>
+							</p>
 						</div>
 					</div>
 				</div>
@@ -52,8 +54,11 @@
 									<p>Mercury is an annual competition held by Oklahoma State University. 
 										The Mercury competition features robots that must navigiate a defined course while completing one or more tasks (may include picking up objects and transporting them, launching objects, and/or interacting with a device). 
 										The robots built for this competition are teleoperated, meaning that they are manually controlled but from a remote location.
+									</p>
+									<p>
 										Mercury is the best competition for beginners at SCR, but still has many interesting design considerations. 
-										Considerations include designing the mechanisms to complete the required tasks, reducing remote latency to make control easy, and optimizing the robot for manueverability.</p>								
+										Considerations include designing the mechanisms to complete the required tasks, reducing remote latency to make control easy, and optimizing the robot for manueverability.
+									</p>								
 								</div>
 							</div>
 						</div>	
@@ -71,10 +76,13 @@
 								<div class="desc-wrap">
 									<a href="http://www.igvc.org/">Competition Website</a>
 									<p>IGVC, the Intelligent Ground Vehicle Competition, is held in the early summer each year. 
-										This competition is all about creating autonomous robots that can navigate a course with lanes and obstacles. 
+										This competition is all about creating autonomous robots that can navigate a course with lanes and obstacles.
+										The robots built for this competition must be able to use many advanced robotics techniques like localization, planning, and computer vision to guide the robot through the lanes and around the obstacles. 
+									</p>
+									<p>
 										IGVC is the most advanced competition we compete in at SCR, requiring strong mechanical, electrical, and software skills. 
-										The software team will use many advanced robotics techniques like localization, planning, and computer vision to guide the robot through the lanes and around the obstacles. 
-										Our IGVC robot is also our biggest robot we build, so the mechanical and electrical teams must deal with problems such as weight-strength compromises, torque requirements, battery capabilities, and much more.</p>							
+										Our IGVC robot is also our biggest robot we build, so the mechanical and electrical teams must deal with problems such as weight-strength compromises, torque requirements, battery capabilities, and much more.
+									</p>							
 								</div>
 							</div>
 			            </div>								

@@ -32,16 +32,15 @@
 						<div class="col-lg-6 info-area-right">
 							<h1>Who we are</h1>
 							<p>
-								Founded in 2013, Sooner Competitive Robotics is a hub organization for every 
-								robotics competition team at the University of Oklahoma. 
-								We provide technical, financial, and organizational resources so that our teams 
-								can focus on building great robots and winning competitions.
+								Founded in 2013, Sooner Competitive Robotics is the largest robotics organization and one of the
+								largest competitive teams at the Univeristy of Oklahoma. We compete in robotics competitions across
+								the nation encompassing a variety of unique challenges.
 							</p>
 							<br>
 							<h1>Mission</h1>
 							<p>
 								The mission of Sooner Competitive Robotics is to represent the University of Oklahoma 
-								College of Engineering by winning robotics competitions.
+								Gallogly College of Engineering by winning robotics competitions.
 							</p>
 						</div>
 					</div>
@@ -133,5 +132,30 @@
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
 			<!-- End footer Area -->	
+			
+
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script>
+				var allPanels = $(".accordion > dd").hide();
+				allPanels.first().slideDown("easeOutExpo");
+				$(".accordion").each(function() {
+					$(this).find("dt > a").first().addClass("active").parent().next().css({
+						display: "block"
+					});
+				});
+
+
+				$(document).on('click', '.accordion > dt > a', function(e) {
+
+					var current = $(this).parent().next("dd");
+					$(this).parents(".accordion").find("dt > a").removeClass("active");
+					$(this).addClass("active");
+					$(this).parents(".accordion").find("dd").slideUp("easeInExpo");
+					$(this).parent().next().slideDown("easeOutExpo");
+
+					return false;
+
+				});
+			</script>
 		</body>
 	</html>
