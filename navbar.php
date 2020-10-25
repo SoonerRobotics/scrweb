@@ -1,17 +1,4 @@
 <header id="header" id="home">
-	<div class="header-top">
-		<div class="container">
-			<div class="row">
-				<?php 
-					require_once("social.php"); 
-					header_social();
-				?>
-				<div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
-					<a href="mailto:scr@ou.edu"><span class="lnr lnr-envelope"></span> <span class="text">scr@ou.edu</span></a>			
-				</div>
-			</div>			  					
-		</div>
-	</div>
 	<div class="container main-menu">
 		<div class="row align-items-center justify-content-between d-flex">
 		<div id="logo">

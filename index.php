@@ -1,5 +1,5 @@
 	<!DOCTYPE html>
-	<html lang="zxx" class="no-js">
+	<html lang="en" class="no-js">
 		<?php include "scr-header.php"; ?>
 		<body>	
             <!-- Include JavaScript SDK for Facebook feed integration -->
@@ -63,16 +63,6 @@
 									<div class="overlay overlay-bg"></div>
 									<div class="relative">				
 										<img class="img-fluid" src="img/sponsors/altium.png" alt="Altium">		
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-md-6 scr-sponsor">
-							<a href="https://assunmotor.com/">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/assunmotor.png" alt="Assun Motors">		
 									</div>
 								</div>
 							</a>
