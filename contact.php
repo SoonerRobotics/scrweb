@@ -165,7 +165,8 @@
 
 							<div class="col-lg-12 d-flex flex-column address-wrap">
 								<div class="flex-row">
-									<embed src="files/sponsorship_packet.pdf" width="500" height="375" type="application/pdf">
+									<h4><a href="files/sponsorship_packet.pdf" class="email">Download</a></h4>
+									<iframe src="files/sponsorship_packet.pdf" width="100%" height="500px"></iframe>
 								</div>	
 							</div>
 						</div>
