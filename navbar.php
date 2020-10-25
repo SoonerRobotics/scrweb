@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-scr-gray">
+<nav class="navbar navbar-expand-lg navbar-dark bg-scr">
 	<a class="navbar-brand" href="index.php">
 		<img src="img/SCR_robot_logo_transparent.png" height="72px" alt="">
 	</a>

@@ -26,7 +26,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h3 style="width:100%;padding-left:15px;padding-bottom:40px;">
-								Leadership Team
+								2020-2021 Leadership Team
 							</h3>
 							<div class="col-lg-12 address-wrap">
 								<div class="single-contact-address d-flex flex-row">
@@ -38,7 +38,7 @@
 										<p>
 											Sarah Brown
 											<br>
-											<a href="mailto:srb@ou.edu">Email</a>
+											<a class="email" href="mailto:srb@ou.edu">srb@ou.edu</a>
 											<br>
 											<i>Computer Engineering</i>
 										</p>
@@ -53,7 +53,7 @@
 										<p>
 											Kevin Robb
 											<br>
-											<a href="mailto:kevin.robb@ou.edu">Email</a>
+											<a class="email" href="mailto:kevin.robb@ou.edu">kevin.robb@ou.edu</a>
 											<br>
 											<i>Engineering Physics</i>
 										</p>
@@ -68,7 +68,7 @@
 										<p>
 											Kichang Song
 											<br>
-											<a href="mailto:Kichang.Song-1@ou.edu">Email</a>
+											<a class="email" href="mailto:Kichang.Song-1@ou.edu">Kichang.Song-1@ou.edu</a>
 											<br>
 											<i>Computer Science</i>
 										</p>
@@ -83,7 +83,7 @@
 										<p>
 											Jorge Exinia
 											<br>
-											<a href="mailto:jorge.d.exinia@ou.edu">Email</a>
+											<a class="email" href="mailto:jorge.d.exinia@ou.edu">jorge.d.exinia@ou.edu</a>
 											<br>
 											<i>Computer Engineering</i>
 										</p>
@@ -98,7 +98,7 @@
 										<p>
 											Stephanie Sheldon 
 											<br>
-											<a href="mailto:Stephanie.C.Sheldon-1@ou.edu">Email</a>
+											<a class="email" href="mailto:Stephanie.C.Sheldon-1@ou.edu">Stephanie.C.Sheldon-1@ou.edu</a>
 											<br>
 											<i>Mechanical Engineering</i>
 										</p>
@@ -113,7 +113,7 @@
 										<p>
 											Noah Zemlin
 											<br>
-											<a href="mailto:noah.zemlin@ou.edu">Email</a>
+											<a class="email" href="mailto:noah.zemlin@ou.edu">noah.zemlin@ou.edu</a>
 											<br>
 											<i>Computer Science</i>
 										</p>
@@ -123,13 +123,21 @@
 						</div>
 
 						<div class="col-lg-6">
-							<h3 style="width:100%;padding-left:15px;padding-bottom:40px;">
+							<h3 style="width:100%;padding-left:15px;padding-bottom:20px;">
 								Team Contact Information
 							</h3>
 							<div class="col-lg-12 d-flex flex-column address-wrap">
 								<div class="single-contact-address d-flex flex-row">
 									<div class="icon">
-										<span class="lnr lnr-home"></span>
+										<i class="far fa-envelope"></i>
+									</div>
+									<div class="contact-details">
+										<h5><a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a></h5>
+									</div>
+								</div>		
+								<div class="single-contact-address d-flex flex-row">
+									<div class="icon">
+										<i class="fas fa-globe"></i>
 									</div>
 									<div class="contact-details">
 										<h5>Norman, Oklahoma</h5>
@@ -139,34 +147,25 @@
 											Basement Bench Lab
 										</p>
 									</div>
-								</div>
+								</div>		
 								<div class="single-contact-address d-flex flex-row">
 									<div class="icon">
-										<span class="lnr lnr-envelope"></span>
+										<i class="fas fa-donate"></i>
 									</div>
 									<div class="contact-details">
-										<h5><a href="mailto:scr@ou.edu">scr@ou.edu</a></h5>
-										<p>Drop us a line if you have any questions!</p>
+										<h5><a class="email" href="https://giving.oufoundation.org/OnlineGivingWeb/Giving/OnlineGiving/SCR">Donate to SCR</a></h5>
 									</div>
-								</div>			
-								<div class="single-contact-address d-flex flex-row">
-									<div class="icon">
-										<span class="lnr lnr-users"></span>
-									</div>
-									<div class="contact-details">
-										<h5><a href="https://ou.campuslabs.com/engage/organization/ou-competitive-robotics-club">Engage Page</a></h5>
-									</div>
-								</div>											
+								</div>										
 							</div>
 
-							<h3 style="width:100%;padding-left:15px;padding-bottom:40px;padding-top:40px;">
+							<h3 style="width:100%;padding-left:15px;padding-bottom:20px;padding-top:20px;">
 								Sponsorship Packet
 							</h3>
 
 							<div class="col-lg-12 d-flex flex-column address-wrap">
 								<div class="flex-row">
+									<a href="files/sponsorship_packet.pdf"><img src="img/sponsorship_packet_fanned.png" class="sponsorship-fan"></img></a>
 									<h4><a href="files/sponsorship_packet.pdf" class="email">Download</a></h4>
-									<iframe src="files/sponsorship_packet.pdf" width="100%" height="500px"></iframe>
 								</div>	
 							</div>
 						</div>
