@@ -12,7 +12,7 @@
 							<h1 class="text-white">
 								Teams		
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="teams.php"> Teams</a></p>
+							<br />
 						</div>	
 					</div>
 				</div>

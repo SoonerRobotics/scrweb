@@ -13,7 +13,7 @@
 							<h1 class="text-white">
 								Competition Results				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="results.php"> Results</a></p>
+							<br />
 						</div>	
 					</div>
 				</div>
