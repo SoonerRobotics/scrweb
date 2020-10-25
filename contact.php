@@ -20,18 +20,9 @@
 			</section>
 			<!-- End banner Area -->
 			
-			<br/>
-
 			<!-- Start contact-page Area -->
 			<section class="section-gap">
 				<div class="container">	
-					<div class="row" style="margin:0 auto; display:flex; justify-content:center;">
-						<div style="padding-bottom: 40px;width:100%;">
-							<h2 style="margin:0 auto; text-align: center;">
-								To stay updated on SCR, join our <a href="https://ou.us5.list-manage.com/subscribe?u=f68fdc0659ff62b076b62cca0&id=db1cf84278">mailing list!</a>
-							</h2>
-						</div>
-					</div>
 					<div class="row">
 						<div class="col-lg-6">
 							<h3 style="width:100%;padding-left:15px;padding-bottom:40px;">
@@ -165,7 +156,17 @@
 									<div class="contact-details">
 										<h5><a href="https://ou.campuslabs.com/engage/organization/ou-competitive-robotics-club">Engage Page</a></h5>
 									</div>
-								</div>													
+								</div>											
+							</div>
+
+							<h3 style="width:100%;padding-left:15px;padding-bottom:40px;padding-top:40px;">
+								Sponsorship Packet
+							</h3>
+
+							<div class="col-lg-12 d-flex flex-column address-wrap">
+								<div class="flex-row">
+									<embed src="files/sponsorship_packet.pdf" width="500" height="375" type="application/pdf">
+								</div>	
 							</div>
 						</div>
 					</div>
@@ -176,20 +177,5 @@
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
 			<!-- End footer Area -->	
-
-
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-    		<script src="js/jquery.tabs.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>									
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
 		</body>
 	</html>

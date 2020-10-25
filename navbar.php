@@ -1,19 +1,27 @@
-<header id="header" id="home">
-	<div class="container main-menu">
-		<div class="row align-items-center justify-content-between d-flex">
-		<div id="logo">
-			<a href="index.php"><img src="img/SCR_robot_logo_transparent.png" height="72px" alt="" title="" /></a>
-		</div>
-			<nav id="nav-menu-container">
-				<ul class="nav-menu">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
-					<li><a href="teams.php">Teams</a></li>
-					<li><a href="results.php">Results</a></li>
-					<li><a href="media.php">Social</a></li>
-					<li><a href="contact.php">Contact</a></li>
-				</ul>
-			</nav><!-- #nav-menu-container -->	    		
-		</div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-scr-gray">
+	<a class="navbar-brand" href="index.php">
+		<img src="img/SCR_robot_logo_transparent.png" height="72px" alt="">
+	</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+		<ul class="navbar-nav custom-nav">
+			<li class="nav-item">
+				<a class="nav-link" href="index.php">Home</span></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="about.php">About</span></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="teams.php">Teams</span></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="results.php">Results</span></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="contact.php">Contact</span></a>
+			</li>
+		</ul>
 	</div>
-</header><!-- #header -->
+</nav>

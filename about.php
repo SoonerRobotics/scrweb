@@ -24,7 +24,7 @@
 
 			<!-- Start info Area -->
 			<section class="info-area pb-120">
-				<div class="container-fluid">
+				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-6 no-padding info-area-left">
 							<img class="img-fluid" src="img/scr-featured-logo.png" alt="">
@@ -133,20 +133,5 @@
 			<!-- start footer Area -->		
 			<?php include "footer.php"; ?>
 			<!-- End footer Area -->	
-
-
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-    		<script src="js/jquery.tabs.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>									
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
 		</body>
 	</html>
