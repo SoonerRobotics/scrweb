@@ -2,7 +2,7 @@
 	<div class="container main-menu">
 		<div class="row align-items-center justify-content-between d-flex">
 		<div id="logo">
-			<a href="index.php"><img src="img/weblogo.png" alt="" title="" /></a>
+			<a href="index.php"><img src="img/SCR_robot_logo_transparent.png" height="72px" alt="" title="" /></a>
 		</div>
 			<nav id="nav-menu-container">
 				<ul class="nav-menu">
