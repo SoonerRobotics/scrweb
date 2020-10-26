@@ -47,7 +47,8 @@
 									<h4>Meetings online!</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Captain: <a href="mailto:noah.zemlin@ou.edu">Noah Zemlin</a></h4>
+									<h4>Captain: Noah Zemlin</h4>
+									<h5><a class="email" href="mailto:noah.zemlin@ou.edu">noah.zemlin@ou.edu</a></h5>
 								</div>
 								<div class="desc-wrap">
 									<a href="https://mercury.okstate.edu/content/mercury-challenge">Competition Website</a>
@@ -71,7 +72,8 @@
 									<h4>Meetings online!</h4>
 								</div>
 								<div class="subtitle">
-									<h4>Captain: <a href="mailto:kevin.robb@ou.edu">Kevin Robb</a></h4>
+									<h4>Captain: Kevin Robb</h4>
+									<h5><a class="email" href="mailto:kevin.robb@ou.edu">kevin.robb@ou.edu</a></h5>
 								</div>
 								<div class="desc-wrap">
 									<a href="http://www.igvc.org/">Competition Website</a>

@@ -24,7 +24,7 @@
 			<section class="section-gap">
 				<div class="container">	
 					<div class="row">
-						<div class="col-lg-6">
+						<div class="col-lg-6 pb-5">
 							<h3 style="width:100%;padding-left:15px;padding-bottom:40px;">
 								2020-2021 Leadership Team
 							</h3>
@@ -126,7 +126,7 @@
 							<h3 style="width:100%;padding-left:15px;padding-bottom:20px;">
 								Team Contact Information
 							</h3>
-							<div class="col-lg-12 d-flex flex-column address-wrap">
+							<div class="col-lg-12 d-flex flex-column address-wrap pl-4">
 								<div class="single-contact-address d-flex flex-row">
 									<div class="icon">
 										<i class="far fa-envelope"></i>
@@ -159,13 +159,13 @@
 							</div>
 
 							<h3 style="width:100%;padding-left:15px;padding-bottom:20px;padding-top:20px;">
-								Sponsorship Packet
+								Sponsor Us
 							</h3>
 
-							<div class="col-lg-12 d-flex flex-column address-wrap">
+							<div class="col-lg-12 d-flex flex-column address-wrap pl-4">
 								<div class="flex-row">
 									<a href="files/sponsorship_packet.pdf"><img src="img/sponsorship_packet_fanned.png" class="sponsorship-fan"></img></a>
-									<h4><a href="files/sponsorship_packet.pdf" class="email">Download</a></h4>
+									<h5><a href="files/sponsorship_packet.pdf" class="email">Download Sponsorship Packet</a></h5>
 								</div>	
 							</div>
 						</div>

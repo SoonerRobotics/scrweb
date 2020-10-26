@@ -2571,7 +2571,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .team-feature .subtitle h4 a {
     color: #fff;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .team-feature .desc-wrap {
@@ -3187,17 +3187,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .accordion>dt>a:after {
-    content: "\f107";
+    content: "\f078";
     width: 15px;
     height: 15px;
     margin-top: -8px;
     position: absolute;
     top: 50%;
     right: 10px;
-    font-family: 'FontAwesome';
-    speak: none;
+    font-family: 'Font Awesome 5 Free';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 900;
     font-variant: normal;
     text-transform: none;
     font-size: 15px;
@@ -3208,7 +3207,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .accordion>dt>a.active:after, .accordion>dt>a.active:hover:after {
-    content: "\f106";
+    content: "\f077";
     color: #fff
 }
 
@@ -3230,70 +3229,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     -o-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
     -ms-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
     transition: all 0.27s cubic-bezier(0, 0, 0.58, 1)
-}
-
-dl.accordion.time-line {
-    position: relative
-}
-
-dl.accordion.time-line:before {
-    border-left: 1px dashed #cecece;
-    bottom: 10px;
-    content: "";
-    left: 15px;
-    position: absolute;
-    top: 25px;
-    z-index: 0
-}
-
-.accordion.time-line>dd {
-    margin-bottom: 10px;
-    padding: 10px 20px 20px 40px;
-    font-size: 14px;
-    line-height: 1.8;
-    color: #777
-}
-
-.accordion.time-line>dt>a:after {
-    content: "\e648";
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    margin-top: -15px;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    font-family: 'icomoon';
-    speak: none;
-    font-style: normal;
-    font-weight: bold;
-    font-variant: normal;
-    text-transform: none;
-    font-size: 20px;
-    text-align: center;
-    color: #fff;
-    -webkit-font-smoothing: antialiased;
-    background: #222;
-    padding-left: 3px
-}
-
-.accordion.time-line>dt>a.active:after, .accordion.time-line>dt>a.active:hover:after {
-    content: "\e641";
-    color: #fff
-}
-
-.accordion.time-line>dt>a {
-    display: block;
-    position: relative;
-    color: #222222;
-    text-decoration: none;
-    padding: 14px 20px 14px 40px;
-    border: none;
-    letter-spacing: 3px
-}
-
-.accordion.time-line>dt>a:hover, .accordion.time-line>dt>a.active {
-    background: none !important
 }
 
 .toggle>dt {
@@ -3322,28 +3257,20 @@ dl.accordion.time-line:before {
 }
 
 .toggle>dt>a:after {
-    content: "\f107";
+    content: "\f078";
     width: 15px;
     height: 15px;
     margin-top: -8px;
     position: absolute;
     top: 50%;
     right: 10px;
-    font-family: 'FontAwesome';
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
+    font-family: 'Font Awesome 5 Free';
     font-size: 15px;
-    line-height: 15px;
-    text-align: center;
-    color: #999;
-    -webkit-font-smoothing: antialiased
 }
 
 .toggle>dt>a.active:after, .toggle>dt>a.active:hover:after {
-    content: "\f106";
+    font-family: 'Font Awesome 5 Free';
+    content: "\f077";
     color: #2b3648
 }
 
@@ -3357,70 +3284,6 @@ dl.accordion.time-line:before {
     font-size: 14px;
     line-height: 1.8;
     color: #777
-}
-
-dl.toggle.time-line {
-    position: relative
-}
-
-dl.toggle.time-line:before {
-    border-left: 1px dashed #cecece;
-    bottom: 10px;
-    content: "";
-    left: 15px;
-    position: absolute;
-    top: 25px;
-    z-index: 0
-}
-
-.toggle.time-line>dd {
-    margin-bottom: 10px;
-    padding: 10px 20px 20px 40px;
-    font-size: 14px;
-    line-height: 1.8;
-    color: #777
-}
-
-.toggle.time-line>dt>a:after {
-    content: "\e648";
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    margin-top: -15px;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    font-family: 'icomoon';
-    speak: none;
-    font-style: normal;
-    font-weight: bold;
-    font-variant: normal;
-    text-transform: none;
-    font-size: 20px;
-    text-align: center;
-    color: #fff;
-    -webkit-font-smoothing: antialiased;
-    background: #222;
-    padding-left: 3px
-}
-
-.toggle.time-line>dt>a.active:after, .toggle.time-line>dt>a.active:hover:after {
-    content: "\e641";
-    color: #fff
-}
-
-.toggle.time-line>dt>a {
-    display: block;
-    position: relative;
-    color: #222222;
-    text-decoration: none;
-    padding: 14px 20px 14px 40px;
-    border: none;
-    letter-spacing: 3px
-}
-
-.toggle.time-line>dt>a:hover, .toggle.time-line>dt>a.active {
-    background: none !important
 }
 
 .jq-tab-menu .jq-tab-title:first-child {
@@ -4802,7 +4665,7 @@ dl.toggle.time-line:before {
 }
 
 .contact-page-area .address-wrap .single-contact-address {
-    margin-bottom: 8px
+    margin-bottom: 8px;
 }
 
 .contact-page-area .address-wrap .single-contact-address h5 {
@@ -5055,8 +4918,16 @@ a:hover {
 }
 
 .email {
-    color: #73002f;
+    color: #841617;
     text-decoration: underline;
+}
+
+.email:hover {
+    color: #520000;
+}
+
+.subtitle .email {
+    color: #fff;
 }
 
 .hidden {
@@ -5094,16 +4965,6 @@ a:hover {
 
 .bg-scr {
     background-color: #841617;
-}
-
-html {
-    overflow: hidden;
-    height: 100%;
-}
-
-body {
-    height: 100%;
-    overflow: auto;
 }
 
 .btn.btn-primary {
@@ -5186,10 +5047,10 @@ body {
     box-shadow: none;
   }
 
-  .sponsorship-fan {
-      height: 250px;
-  }
+.sponsorship-fan {
+    height: 250px;
+}
 
-  .how-to-join p {
-      font-size: 16px;
-  }
+.how-to-join p {
+    font-size: 16px;
+}
