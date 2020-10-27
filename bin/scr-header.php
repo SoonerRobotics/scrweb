@@ -2,13 +2,13 @@
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon-->
-	<link rel="shortcut icon" href="img/fav.png">
+	<link rel="shortcut icon" href="favicon.ico">
 	<!-- Author Meta -->
 	<meta name="author" content="Sooner Competitive Robotics">
 	<!-- Meta Description -->
-	<meta name="description" content="The purpose of the organization is to provide a centralized hub for the funding and support of OU's robotics competition teams, ensuring the availability of financial and technical resources, managerial accountability, and ultimate success at competition.">
+	<meta name="description" content="Competitive Robotics at the University of Oklahoma">
 	<!-- Meta Keyword -->
-	<meta name="keywords" content="Sooner,Competitive,Robotics,University,Of,Oklahoma,University of Oklahoma,OU,OU Robotics,IGVC,Mercury,Programming,Machine Learning,AI,Competition,Competition Team,Team">
+	<meta name="keywords" content="Competitive,Robotics,University of Oklahoma,Oklahoma,Robots,Competition,Student,Organization,Club,Team,Programming,Computer Engineering,Computer Science,Mechanical Engineering,3D Printing,PCB">
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
@@ -19,31 +19,10 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="img/favicon_pkg/favicon-16x16.png">
 	<link rel="manifest" href="img/favicon_pkg/site.webmanifest">
 	<link rel="mask-icon" href="img/favicon_pkg/safari-pinned-tab.svg" color="#b3003c">
-	<meta name="msapplication-TileColor" content="#6a6a6a">
-	<meta name="theme-color" content="#ffffff">
 
-	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-	<!-- ======================================== ==>
-	CSS
-	============================================= -->
-	<link rel="stylesheet" href="css/linearicons.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">							
-	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/owl.carousel.css">			
-	<link rel="stylesheet" href="css/jquery-ui.css">			
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700"> 
+	<link rel="stylesheet" href="css/all.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/main.css">
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122677089-1"></script>
-	<script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-
-  		gtag('config', 'UA-122677089-1');
-	</script>
 
 </head>
