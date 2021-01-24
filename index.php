@@ -173,6 +173,26 @@
 								</div>
 							</a>
 						</div>
+						<div class="col-md-6 scr-sponsor">
+							<a href="https://www.oge.com/">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/OGE.png" alt="OGE">		
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 scr-sponsor">
+							<a href="https://okrobotics.com/">
+								<div class="single-imgs relative">		
+									<div class="overlay overlay-bg"></div>
+									<div class="relative">				
+										<img class="img-fluid" src="img/sponsors/okrobotics.png" alt="Oklahoma Robotics">		
+									</div>
+								</div>
+							</a>
+						</div>
 					</div>
 				</div>	
 			</section>
