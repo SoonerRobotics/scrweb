@@ -2418,12 +2418,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-teams {
-    background: url(../img/slam.png) center;
+    background: url(../img/slam.jpg) center;
     background-size: cover
 }
 
 .banner-area-igvc {
-    background: url(../img/igvc_21.png) center;
+    background: url(../img/igvc_21.jpg) center;
     background-size: cover
 }
 
@@ -2433,7 +2433,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-merc-meeting {
-    background: url(../img/merc_meeting.png) center;
+    background: url(../img/merc_meeting.jpg) center;
     background-size: cover
 }
 
@@ -4955,12 +4955,13 @@ a:hover {
 .custom-nav .nav-item .nav-link {
     padding: 0 8px 0px 8px;
     text-decoration: none;
-    display: inline-block;
     color: #fff;
     font-weight: 500;
     font-size: 24px;
     text-transform: uppercase;
     outline: none;
+    float: right;
+    padding-top: 5px;
 }
 
 .bg-scr {
