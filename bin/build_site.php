@@ -108,6 +108,12 @@ function build_html_single_file($file, $filename)
  */
 function build_site()
 {
+    //Create build directory if it doesn't exist
+    $path = pathinfo($s2);
+    if (!file_exists("../build")) {
+        mkdir("../build", 0777, true);
+    }   
+
     //Copy over dependencies first
     copy_php_dependencies();
     copy_res_dependencies();
