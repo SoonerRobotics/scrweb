@@ -130,7 +130,7 @@
 			<!-- End feature Area -->
 
 			<!-- Start gallery Area -->
-			<section class="gallery-area">
+			<section class="gallery-area pb-80">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content col-lg-8">
@@ -142,55 +142,38 @@
 							</div>
 						</div>
 					</div>
+					<div class="title text-center pt-20">
+						<h3>Silver Sponsors</h3>
+					</div>
 					<div class="row justify-content-center" style="width:80%; margin: auto">
 						<div class="col-md-6 scr-sponsor">
-							<a href="https://www.altium.com/">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/altium.png" alt="Altium">		
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-md-6 scr-sponsor">
-							<a href="http://www.ou.edu/coe">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/gcoe.png" alt="OU GCoE">		
-									</div>
-								</div>
+							<a href="https://www.oge.com/">
+								<img class="img-fluid" src="img/sponsors/OGE.png" alt="OGE">		
 							</a>
 						</div>
 						<div class="col-md-6 scr-sponsor">
 							<a href="http://www.ou.edu/sga">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/sga.png" alt="OU SGA">		
-									</div>
-								</div>
+								<img class="img-fluid" src="img/sponsors/sga.png" alt="OU SGA">		
 							</a>
 						</div>
 						<div class="col-md-6 scr-sponsor">
-							<a href="https://www.oge.com/">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/OGE.png" alt="OGE">		
-									</div>
-								</div>
+							<a href="https://www.altium.com/">
+								<img class="img-fluid" src="img/sponsors/altium.png" alt="Altium">		
+							</a>
+						</div>
+					</div>
+					<div class="title text-center pt-20">
+						<h3>Bronze Sponsors</h3>
+					</div>
+					<div class="row justify-content-center" style="width:80%; margin: auto">
+						<div class="col-md-6 scr-sponsor">
+							<a href="http://www.ou.edu/coe">
+								<img class="img-fluid" src="img/sponsors/gcoe.png" alt="OU GCoE">		
 							</a>
 						</div>
 						<div class="col-md-6 scr-sponsor">
 							<a href="https://okrobotics.com/">
-								<div class="single-imgs relative">		
-									<div class="overlay overlay-bg"></div>
-									<div class="relative">				
-										<img class="img-fluid" src="img/sponsors/okrobotics.png" alt="Oklahoma Robotics">		
-									</div>
-								</div>
+								<img class="img-fluid" src="img/sponsors/okrobotics.png" alt="Oklahoma Robotics">		
 							</a>
 						</div>
 					</div>

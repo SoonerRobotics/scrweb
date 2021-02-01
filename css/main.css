@@ -4915,6 +4915,13 @@ a:hover {
 
 .scr-sponsor {
     margin: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.scr-sponsor img{
+    height: 90px;
+    width: auto;
 }
 
 .email {
