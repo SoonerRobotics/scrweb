@@ -4,14 +4,9 @@
  * All the PHP files the website uses as utilities 
  */
 $php_deps = [
-        "../feature.php",
-        "../social.php",
-        "../navbar.php",
-        "../scr-header.php",
-        "../newsletter.php",
-        "../footer.php",
-        "../upcoming_events.php",
-        "../news.php"
+        "navbar.php",
+        "header.php",
+        "footer.php"
 ];
 
 /*
@@ -24,6 +19,7 @@ $res_deps = [
         "../js",
         "../scss",
         "../img",
+        "../files",
         "../favicon.ico"
 ];
 

@@ -11,7 +11,7 @@
 					</ul>			
 				</p>
 				<p>
-					Copyright &copy; 2020 Sooner Competitive Robotics. All rights reserved.
+					Copyright &copy; 2021 Sooner Competitive Robotics. All rights reserved.
 				</p>
 			</div>
 		</div>						
