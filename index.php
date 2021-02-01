@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-	<?php include "bin/header.php"; ?>
+	<?php include "header.php"; ?>
 	<body>	
-		<?php include "bin/navbar.php";?>
+		<?php include "navbar.php";?>
 
 		<!-- start banner Area -->
 		<section class="container-flex relative">
@@ -182,7 +182,7 @@
 		<!-- End gallery Area -->	
 		
 		<!-- start footer Area -->		
-		<?php include "bin/footer.php"; ?>
+		<?php include "footer.php"; ?>
 		<!-- End footer Area -->			
 	</body>
 </html>

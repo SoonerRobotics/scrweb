@@ -4,9 +4,9 @@
  * All the PHP files the website uses as utilities 
  */
 $php_deps = [
-        "navbar.php",
-        "header.php",
-        "footer.php"
+        "../navbar.php",
+        "../header.php",
+        "../footer.php"
 ];
 
 /*
@@ -17,8 +17,8 @@ $res_deps = [
         "../css",
         "../fonts",
         "../js",
-        "../scss",
         "../img",
+        "../webfonts",
         "../files",
         "../favicon.ico"
 ];
@@ -111,7 +111,7 @@ function build_site()
     }   
 
     //Copy over dependencies first
-    copy_php_dependencies();
+    //copy_php_dependencies();
     copy_res_dependencies();
 
     global $php_deps;
