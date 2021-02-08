@@ -4,6 +4,7 @@
 			<div class="m-0 col-lg-6 col-md-6">
 				<p>
 					<ul class="footer-social">
+						<li><a href="https://www.linkedin.com/company/65256485"><i class="fab fa-linkedin"></i></a></li>
 						<li><a href="https://www.instagram.com/ou_scr/"><i class="fab fa-instagram"></i></a></li>
 						<li><a href="https://www.facebook.com/OURobots/"><i class="fab fa-facebook"></i></a></li>
 						<li><a href="https://www.youtube.com/channel/UCBBtOvgnLrfVAYTP1tSAGrw?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
