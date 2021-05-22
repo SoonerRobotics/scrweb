@@ -27,27 +27,45 @@
 				<!-- accordion 2 start-->
 				<dl class="accordion">
 				<dt>
+						<a href="">2021</a>
+					</dt>
+					<dd>
+						<ul>
+							<li><b>Mercury</b>: Competition Cancelled due to COVID-19</li>
+							<li>
+								<b>IGVC</b>: TBA after June 7th
+								<br />
+								&emsp;<a class="email" href="files/docs/IGVC21_Design_Report.pdf">Design Report</a>
+							</li>
+						</ul>
+					</dd>
+					<dt>
 						<a href="">2020</a>
 					</dt>
 					<dd>
 						<ul>
-							<li>Mercury: Competition Cancelled</li>
-							<li>NRC: Competition Cancelled</li>
-							<li>IGVC: Competition Cancelled</li>
+							<li>
+								<b>Mercury</b>: Competition Cancelled due to COVID-19
+								<br />
+								&emsp;<a class="email" href="files/docs/Mercury20_Tech_Document.pdf">Tech Document</a>
+								</li>
+							<li><b>NRC</b>: Competition Cancelled due to COVID-19</li>
+							<li><b>IGVC</b>: Competition Cancelled due to COVID-19</li>
 						</ul>
-						<p style="margin-top: 10px">
-							Context: <a href="https://en.wikipedia.org/wiki/COVID-19_pandemic">COVID-19 pandemic</a>
-						</p>
 					</dd>
 					<dt>
 						<a href="">2019</a>
 					</dt>
 					<dd>
 						<ul>
-							<li>IEEE: T-6th place (out of ~30 teams)</li>
-							<li>Mercury: 2nd place (by points scored)</li>
-							<li>Sumobot: Competition Cancelled</li>
-							<li>Robomagellan: Competition Cancelled</li>
+							<li><b>IEEE</b>: T-6th place (out of ~30 teams)</li>
+							<li>
+								<b>Mercury</b>: 2nd place (by points scored)
+								<br />
+								&emsp;<a class="email" href="files/docs/Mercury19_Tech_Document.pdf">Tech Document</a>
+							</li>
+							<li><b>Sumobot</b>: Competition Cancelled</li>
+							<li><b>Robomagellan</b>: Competition Cancelled</li>
 						</ul>
 					</dd>
 					<dt>
@@ -55,9 +73,9 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>Sumobot: 5th place</li>
-							<li>IEEE: T-15th place (out of 60 teams)</li>
-							<li>Mercury: 9th</li>
+							<li><b>Sumobot</b>: 5th place</li>
+							<li><b>IEEE</b>: T-15th place (out of 60 teams)</li>
+							<li><b>Mercury</b>: 9th</li>
 						</ul>
 					</dd>
 					<dt>
@@ -65,9 +83,9 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>Sumobot: 4th place</li>
-							<li>IEEE: 9th place (out of 30 teams)</li>
-							<li>Mercury: 10th place (out of 16 teams)</li>
+							<li><b>Sumobot</b>: 4th place</li>
+							<li><b>IEEE</b>: 9th place (out of 30 teams)</li>
+							<li><b>Mercury</b>: 10th place (out of 16 teams)</li>
 						</ul>
 					</dd>
 					<dt>
@@ -75,8 +93,8 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>IEEE: 4th place</li>
-							<li>Mercury: 7th place (out of 26 teams), Judges Choice Award</li>
+							<li><b>IEEE</b>: 4th place</li>
+							<li><b>Mercury</b>: 7th place (out of 26 teams), Judges Choice Award</li>
 						</ul>
 					</dd>
 					<dt>
@@ -84,8 +102,8 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>ASEE: 4th place out of 15 teams</li>
-							<li>KIPR Aerial: 5th place, Judges Choice for Best Technology</li>
+							<li><b>ASEE</b>: 4th place out of 15 teams</li>
+							<li><b>KIPR Aerial</b>: 5th place, Judges Choice for Best Technology</li>
 						</ul>
 					</dd>
 					<dt>
@@ -93,9 +111,9 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>KIPR Open: 1st place Double Elimination</li>
-							<li>KIPR Aerial: Judges Choice</li>
-							<li>Mercury: T-8th (out of 13 teams)</li>
+							<li><b>KIPR Open</b>: 1st place Double Elimination</li>
+							<li><b>KIPR Aerial</b>: Judges Choice</li>
+							<li><b>Mercury</b>: T-8th (out of 13 teams)</li>
 						</ul>
 					</dd>
 					<dt>
@@ -103,8 +121,8 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>Mercury: 1st place Overall</li>
-							<li>KIPR Open: 2nd place Overall</li>
+							<li><b>Mercury</b>: 1st place Overall</li>
+							<li><b>KIPR Open</b>: 2nd place Overall</li>
 						</ul>
 					</dd>
 					<dt>
@@ -112,8 +130,8 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>IEEE Robot: Top 10 (out of 40 teams)</li>
-							<li>KIPR Open: 2nd place Double Elimination, Judges Choice</li>
+							<li><b>IEEE Robot</b>: Top 10 (out of 40 teams)</li>
+							<li><b>KIPR Open</b>: 2nd place Double Elimination, Judges Choice</li>
 						</ul>
 					</dd>
 					<dt>
@@ -121,7 +139,7 @@
 					</dt>
 					<dd>
 						<ul>
-							<li>KIPR Aerial 2011: 1st place Overall</li>
+							<li><b>KIPR Aerial 2011</b>: 1st place Overall</li>
 						</ul>
 					</dd>
 				</dl>
