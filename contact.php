@@ -26,7 +26,7 @@
 				<div class="row">
 					<div class="col-lg-6 pb-5">
 						<h3 style="width:100%;padding-left:15px;padding-bottom:40px;">
-							2020-2021 Leadership Team
+							2021-2022 Leadership Team
 						</h3>
 						<div class="col-lg-12 address-wrap">
 							<div class="single-contact-address d-flex flex-row">
@@ -51,11 +51,11 @@
 								<div class="contact-details">
 									<h5>Vice President</h5>
 									<p>
-										Kevin Robb
+										Jorge Exinia
 										<br>
-										<a class="email" href="mailto:kevin.robb@ou.edu">kevin.robb@ou.edu</a>
+										<a class="email" href="mailto:exinia@ou.edu">exinia@ou.edu</a>
 										<br>
-										<i>Engineering Physics</i>
+										<i>Computer Engineering</i>
 									</p>
 								</div>
 							</div>
@@ -66,11 +66,11 @@
 								<div class="contact-details">
 									<h5>Treasurer</h5>
 									<p>
-										Kichang Song
+										Brad Hundl
 										<br>
-										<a class="email" href="mailto:Kichang.Song-1@ou.edu">Kichang.Song-1@ou.edu</a>
+										<a class="email" href="mailto:bradley.b.hundl-1@ou.edu">bradley.b.hundl-1@ou.edu</a>
 										<br>
-										<i>Computer Science</i>
+										<i>Computer Engineering</i>
 									</p>
 								</div>
 							</div>
@@ -81,26 +81,11 @@
 								<div class="contact-details">
 									<h5>Secretary</h5>
 									<p>
-										Jorge Exinia
+										Tyler Julian
 										<br>
-										<a class="email" href="mailto:jorge.d.exinia@ou.edu">jorge.d.exinia@ou.edu</a>
+										<a class="email" href="mailto:tyler.james.julian@ou.edu">tyler.james.julian@ou.edu</a>
 										<br>
 										<i>Computer Engineering</i>
-									</p>
-								</div>
-							</div>
-							<div class="single-contact-address d-flex">
-								<div class="icon profile-pic">
-									<img class ="profile-pic" src="img/officers/socialmedia.png"></img>
-								</div>
-								<div class="contact-details">
-									<h5>Social Media</h5>
-									<p>
-										Stephanie Sheldon 
-										<br>
-										<a class="email" href="mailto:Stephanie.C.Sheldon-1@ou.edu">Stephanie.C.Sheldon-1@ou.edu</a>
-										<br>
-										<i>Mechanical Engineering</i>
 									</p>
 								</div>
 							</div>
@@ -111,11 +96,11 @@
 								<div class="contact-details">
 									<h5>Lab Manager</h5>
 									<p>
-										Noah Zemlin
+										TBD
 										<br>
-										<a class="email" href="mailto:noah.zemlin@ou.edu">noah.zemlin@ou.edu</a>
+										<a class="email" href="mailto:TBD@ou.edu">TBD@ou.edu</a>
 										<br>
-										<i>Computer Science</i>
+										<i>TBD</i>
 									</p>
 								</div>
 							</div>

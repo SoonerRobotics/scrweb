@@ -2428,12 +2428,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area-results {
-    background: url(../img/mercury19.jpg) center;
+    background: url(../img/igvc_21_awards.jpg) 0% 27%;
     background-size: cover
 }
 
 .banner-area-merc-meeting {
     background: url(../img/merc_meeting.jpg) center;
+    background-size: cover
+}
+
+.banner-area-first {
+    background: url(../img/nrc_meeting.png) 50% 70%;
     background-size: cover
 }
 

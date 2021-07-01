@@ -33,7 +33,7 @@
 						<ul>
 							<li><b>Mercury</b>: Competition Cancelled due to COVID-19</li>
 							<li>
-								<b>IGVC</b>: TBA after June 7th
+								<b>IGVC</b>: 1st in Auto-Nav, T-2nd in Grand Prize, and Rookie of the Year
 								<br />
 								&emsp;<a class="email" href="files/docs/IGVC21_Design_Report.pdf">Design Report</a>
 							</li>

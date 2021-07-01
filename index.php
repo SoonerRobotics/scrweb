@@ -135,6 +135,27 @@
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content col-lg-8">
 						<div class="title text-center">
+							<h2>Done FIRST®? Check us out!</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row justify-content-center" style="width:80%; margin: auto">
+					<div class="col-md-6 scr-sponsor">
+						<a href="first.php">
+							<img class="img-fluid" src="img/first-alumni.png" alt="First Alumni">		
+						</a>
+					</div>
+				</div>
+			</div>	
+		</section>
+		<!-- End gallery Area -->	
+
+		<!-- Start gallery Area -->
+		<section class="gallery-area pb-80">
+			<div class="container">
+				<div class="row d-flex justify-content-center">
+					<div class="menu-content col-lg-8">
+						<div class="title text-center">
 							<h1>Our Sponsors</h1>
 							<p>
 								Interested in sponsoring us or donating? <a class="email" href="contact.php">View our sponsorship packet and contact us.<a/>
