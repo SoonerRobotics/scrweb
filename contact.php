@@ -30,7 +30,7 @@
 						</h3>
 						<div class="col-lg-12 address-wrap">
 							<div class="single-contact-address d-flex flex-row">
-								<div class="icon profile-pic">
+								<div class="icon">
 									<img class ="profile-pic" src="img/officers/president.png"></img>
 								</div>
 								<div class="contact-details">
@@ -45,7 +45,7 @@
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
-								<div class="icon profile-pic">
+								<div class="icon">
 									<img class ="profile-pic" src="img/officers/vice-president.png"></img>
 								</div>
 								<div class="contact-details">
@@ -60,7 +60,7 @@
 								</div>
 							</div>
 							<div class="single-contact-address d-flex">	
-								<div class="icon profile-pic">
+								<div class="icon">
 									<img class ="profile-pic" src="img/officers/treasurer.png"></img>
 								</div>
 								<div class="contact-details">
@@ -75,7 +75,7 @@
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
-								<div class="icon profile-pic">
+								<div class="icon">
 									<img class ="profile-pic" src="img/officers/secretary.png"></img>
 								</div>
 								<div class="contact-details">
@@ -90,7 +90,7 @@
 								</div>
 							</div>
 							<div class="single-contact-address d-flex">
-								<div class="icon profile-pic">
+								<div class="icon">
 									<img class ="profile-pic" src="img/officers/labmanager.png"></img>
 								</div>
 								<div class="contact-details">
@@ -111,12 +111,13 @@
 						<h3 style="width:100%;padding-left:15px;padding-bottom:20px;">
 							Team Contact Information
 						</h3>
+
 						<div class="col-lg-12 d-flex flex-column address-wrap pl-4">
 							<div class="single-contact-address d-flex flex-row">
 								<div class="icon">
 									<i class="far fa-envelope"></i>
 								</div>
-								<div class="contact-details">
+								<div class="contact-details" style="margin-bottom:5px">
 									<h5><a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a></h5>
 								</div>
 							</div>		
@@ -126,7 +127,7 @@
 								</div>
 								<div class="contact-details">
 									<h5>Norman, Oklahoma</h5>
-									<p>
+									<p style="margin-bottom:5px">
 										850 South Jenkins Avenue<br/>
 										<a href="http://www.ou.edu/coe/about/facilities/practice">ExxonMobil Lawrence G. Rawl Engineering Practice Facility</a><br/>
 										Basement Bench Lab
@@ -137,10 +138,26 @@
 								<div class="icon">
 									<i class="fas fa-donate"></i>
 								</div>
-								<div class="contact-details">
+								<div class="contact-details" style="margin-bottom:5px">
 									<h5><a class="email" href="https://giving.oufoundation.org/OnlineGivingWeb/Giving/OnlineGiving/SCR">Donate to SCR</a></h5>
 								</div>
 							</div>										
+						</div>
+
+						<h3 style="width:100%;padding-left:15px;padding-bottom:20px;padding-top:20px;">
+							Social Media
+						</h3>
+
+						<div class="col-lg-12 d-flex flex-column address-wrap pl-4">
+							<div class="flex-row">
+								<ul class="contact-social footer-social">
+									<li><a href="https://www.linkedin.com/company/65256485"><i class="fab fa-linkedin"></i></a></li>
+									<li><a href="https://www.instagram.com/ou_scr/"><i class="fab fa-instagram"></i></a></li>
+									<li><a href="https://www.facebook.com/OURobots/"><i class="fab fa-facebook"></i></a></li>
+									<li><a href="https://www.youtube.com/channel/UCBBtOvgnLrfVAYTP1tSAGrw?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="https://github.com/soonerrobotics"><i class="fab fa-github"></i></a></li>
+								</ul>
+							</div>
 						</div>
 
 						<h3 style="width:100%;padding-left:15px;padding-bottom:20px;padding-top:20px;">

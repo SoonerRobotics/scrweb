@@ -4809,44 +4809,49 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #fff;
 }
 
-.footer-bottom .footer-social {
+.footer-social {
     text-align: left;
     font-size: 30px;
 }
 
+.contact-social {
+    font-size: 40px;
+}
+
 @media (max-width: 991px) {
-    .footer-bottom .footer-social {
+    .footer-bottom footer-social {
         text-align: center;
         margin-top: 0px
     }
 }
 
-.footer-bottom li{
+.footer-social li{
     display: inline-block;
 }
 
-.footer-bottom li a i{
+.footer-bottom .footer-social li a i{
     margin-top: 10px;
 }
 
-.footer-bottom .lnr, .footer-bottom a {
-    color: #2b3648
+.footer-social a {
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
 }
 
 .footer-bottom .footer-social a {
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
-    width: 50px;
-    height: 50px;
-    display: inline-block;
-    text-align: center;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s
 }
 
-.footer-bottom .footer-social a i {
+.footer-social a i {
     vertical-align: bottom
 }
 
@@ -4859,6 +4864,9 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 100px;
     height: 100px;
     margin-right: 10px;
+    margin-bottom: 10px;
+    border: 3px solid #841617;
+    border-radius: 50%;
 }
 
 .social-feed-details 
