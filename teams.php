@@ -28,7 +28,9 @@
 					<div class="title text-center how-to-join">
 						<h1 class="mb-10">How to Join</h1>
 						<p>
-							Joining SCR is as easy as emailing <a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a> or any of the captains below for the invite to our Slack! We use Slack to coordinate all of our communication. Because of the safety precautions we are taking for COVID, all of our meetings are online only this semester with the exception of meetings to build the robots. We hope you join us in building awesome robots! No prior robotics skills are necessary!</p>
+							Joining SCR is as easy as joining our mailing list: <a class="email" href="http://eepurl.com/dEMxMv">http://eepurl.com/dEMxMv</a>.
+							Throughout the semester, we will send out announcements through the mailing list with invites to our Discord. Discord is our primary form of communication for our team.
+							If you have any questions about joining, feel free to contact us at <a class="email" href="mailto:scr@ou.edu">scr@ou.edu</a> or at any of our captains' emails below.
 						</p>
 					</div>
 				</div>
@@ -37,7 +39,7 @@
 		
 		<section class="team-feature-area pb-120">
 			<div class="container">
-				<h1 style="text-align: center; margin:10px;">Active Teams (Spring 2021)</h1>
+				<h1 style="text-align: center; margin:10px;">Active Teams (2021-2022)</h1>
 				<div class="row">
 					<div class="col-lg-6">
 						<div class="team-feature">
@@ -45,20 +47,20 @@
 								<h4>Mercury</h4>
 							</div>
 							<div class="subtitle">
-								<h4>Meetings online!</h4>
+								<h4>Meeting Times TBD!</h4>
 							</div>
 							<div class="subtitle">
-								<h4>Captain: Noah Zemlin</h4>
-								<h5><a class="email" href="mailto:noah.zemlin@ou.edu">noah.zemlin@ou.edu</a></h5>
+								<h4>Captain: Jorge Exinia</h4>
+								<h5><a class="email" href="mailto:exinia@ou.edu">exinia@ou.edu</a></h5>
 							</div>
 							<div class="desc-wrap">
-								<a href="https://mercury.okstate.edu/content/mercury-challenge">Competition Website</a>
+								<a href="https://campuslink.okstate.edu/organization/mercuryrobotics">Competition Website</a>
 								<p>Mercury is an annual competition held by Oklahoma State University. 
 									The Mercury competition features robots that must navigiate a defined course while completing one or more tasks (may include picking up objects and transporting them, launching objects, and/or interacting with a device). 
 									The robots built for this competition are teleoperated, meaning that they are manually controlled but from a remote location.
 								</p>
 								<p>
-									Mercury is the best competition for beginners at SCR, but still has many interesting design considerations. 
+									<b>Mercury is the best competition for beginners at SCR</b>, but still has many interesting design considerations. 
 									Considerations include designing the mechanisms to complete the required tasks, reducing remote latency to make control easy, and optimizing the robot for manueverability.
 								</p>								
 							</div>
@@ -70,11 +72,11 @@
 								<h4>IGVC</h4>
 							</div>
 							<div class="subtitle">
-								<h4>Meetings online!</h4>
+								<h4>Meeting Times TBD!</h4>
 							</div>
 							<div class="subtitle">
-								<h4>Captain: Kevin Robb</h4>
-								<h5><a class="email" href="mailto:kevin.robb@ou.edu">kevin.robb@ou.edu</a></h5>
+								<h4>Captain: Tyler Julian</h4>
+								<h5><a class="email" href="mailto:yler.james.julian@ou.edu">tyler.james.julian@ou.edu</a></h5>
 							</div>
 							<div class="desc-wrap">
 								<a href="http://www.igvc.org/">Competition Website</a>
@@ -83,7 +85,7 @@
 									The robots built for this competition must be able to use many advanced robotics techniques like localization, planning, and computer vision to guide the robot through the lanes and around the obstacles. 
 								</p>
 								<p>
-									IGVC is the most advanced competition we compete in at SCR, requiring strong mechanical, electrical, and software skills. 
+									<b>IGVC is the most advanced competition we compete in at SCR</b>, requiring strong mechanical, electrical, and software skills. 
 									Our IGVC robot is also our biggest robot we build, so the mechanical and electrical teams must deal with problems such as weight-strength compromises, torque requirements, battery capabilities, and much more.
 								</p>							
 							</div>

@@ -19,9 +19,9 @@
 			<li class="nav-item">
 				<a class="nav-link" href="results.php">Results</span></a>
 			</li>
-			<li class="nav-item">
+			<!-- <li class="nav-item">
 				<a class="nav-link" href="first.php">FIRST®</span></a>
-			</li>
+			</li> -->
 			<li class="nav-item">
 				<a class="nav-link" href="contact.php">Contact</span></a>
 			</li>

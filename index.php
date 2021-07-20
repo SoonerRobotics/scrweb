@@ -130,7 +130,7 @@
 		<!-- End feature Area -->
 
 		<!-- Start gallery Area -->
-		<section class="gallery-area pb-80">
+		<!-- <section class="gallery-area pb-80">
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content col-lg-8">
@@ -147,7 +147,7 @@
 					</div>
 				</div>
 			</div>	
-		</section>
+		</section> -->
 		<!-- End gallery Area -->	
 
 		<!-- Start gallery Area -->
